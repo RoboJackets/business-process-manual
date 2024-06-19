@@ -45,6 +45,7 @@ ogp_enable_meta_description = False
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_title = "Business Process Manual"
 html_theme_options = {
     "source_repository": "https://github.com/RoboJackets/business-process-manual/",
     "source_branch": "main",

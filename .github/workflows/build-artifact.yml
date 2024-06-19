@@ -16,6 +16,12 @@ jobs:
     - name: Register problem matchers
       run: echo "::add-matcher::.github/matchers.json"
 
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v4
+      with:
+        check-latest: true
+        node-version: latest
+
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
@@ -35,6 +41,25 @@ jobs:
 
     - name: Build Sphinx docs
       run: poetry run sphinx-build -M dirhtml . _build
+
+    - name: Minify built docs
+      run: |
+        set -eux
+        npm install -g npm@latest
+        npx html-minifier --input-dir /docs/ --output-dir /docs/ --file-ext html --collapse-whitespace --collapse-inline-tag-whitespace --minify-css --minify-js --minify-urls ROOT_PATH_RELATIVE --remove-comments --remove-empty-attributes --conservative-collapse
+        find /docs/ -type f -size +0 | while read file; do
+            filename=$(basename -- "$file");
+            extension="${filename##*.}";
+            if [ "$extension" = "js" ]; then
+                npx terser "$file" --compress --output "$file";
+            fi;
+            if [ "$extension" = "css" ]; then
+                npx clean-css-cli "$file" -O2 --output "$file";
+            fi;
+            if [ "$extension" = "map" ]; then
+                rm -f "$file";
+            fi;
+        done;
 
     - name: Upload GitHub Pages artifact
       uses: actions/upload-pages-artifact@v3

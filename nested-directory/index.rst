@@ -1,2 +1,2 @@
-This is a nested directory index
+This a nested directory index
 ================================

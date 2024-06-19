@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. vale Google.Headings = NO
+.. vale Google.Exclamation = NO
+
 Welcome to Business Process Manual's documentation!
 ===================================================
 

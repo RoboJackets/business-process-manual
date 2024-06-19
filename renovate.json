@@ -1,0 +1,25 @@
+{
+    "extends": [
+        "config:base"
+    ],
+    "prConcurrentLimit": 1,
+    "prHourlyLimit": 0,
+    "rebaseStalePrs": true,
+    "automerge": true,
+    "platformAutomerge": true,
+    "lockFileMaintenance": {
+        "enabled": true,
+        "schedule": ["before 4pm on Wednesday except before 9am on Wednesday"]
+    },
+    "python": {
+        "packageRules": [
+            {
+                "matchDepNames": ["python"],
+                "rangeStrategy": "replace"
+            }
+        ]
+    },
+    "rangeStrategy": "pin",
+    "timezone": "America/New_York",
+    "schedule": ["before 4pm on Wednesday except before 9am on Wednesday"]
+}

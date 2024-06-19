@@ -42,6 +42,12 @@ jobs:
     - name: Build Sphinx docs
       run: poetry run sphinx-build -M dirhtml . _build
 
+    - name: Run Vale
+      uses: docker://jdkato/vale
+      with:
+        entrypoint: /bin/sh
+        args: -euxc "vale sync && vale --output line ."
+
     - name: Minify built docs
       run: |
         set -eux

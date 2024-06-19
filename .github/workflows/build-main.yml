@@ -12,6 +12,7 @@ jobs:
     uses: ./.github/workflows/build-artifact.yml
 
   deploy-github-pages:
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-24.04
 
     needs: build-artifact
@@ -23,6 +24,10 @@ jobs:
     environment:
       name: github-pages
       url: https://bpm.robojackets.org
+
+    concurrency:
+      group: deploy-github-pages
+      cancel-in-progress: false
 
     steps:
     - name: Deploy to GitHub Pages

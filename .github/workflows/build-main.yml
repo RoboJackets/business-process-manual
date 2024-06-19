@@ -1,5 +1,5 @@
 ---
-name: Build
+name: Build Main
 
 on:
   push:
@@ -28,25 +28,25 @@ jobs:
       cloudfront_distribution_id: ${{ needs.terraform-apply.outputs.cloudfront_distribution_id }}
       s3_bucket_name: ${{ needs.terraform-apply.outputs.s3_bucket_name }}
 
-  # deploy-github-pages:
-  #   name: Deploy to GitHub Pages
-  #   runs-on: ubuntu-24.04
+  deploy-github-pages:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-24.04
 
-  #   needs: build-artifact
+    needs: build-artifact
 
-  #   permissions:
-  #     pages: write
-  #     id-token: write
+    permissions:
+      pages: write
+      id-token: write
 
-  #   environment:
-  #     name: github-pages
-  #     url: https://bpm.robojackets.org
+    environment:
+      name: github-pages
+      url: https://bpm.robojackets.org
 
-  #   concurrency:
-  #     group: deploy-github-pages
-  #     cancel-in-progress: false
+    concurrency:
+      group: deploy-github-pages
+      cancel-in-progress: false
 
-  #   steps:
-  #   - name: Deploy to GitHub Pages
-  #     id: deployment
-  #     uses: actions/deploy-pages@v4
+    steps:
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

@@ -16,7 +16,7 @@ jobs:
       contents: read
 
     concurrency:
-      group: terraform-apply-${{ github.ref }}
+      group: terraform-apply-refs/pull/${{ github.event.number }}/merge
       cancel-in-progress: false
 
     steps:
@@ -37,7 +37,7 @@ jobs:
         role-duration-seconds: 900
 
     - name: Initialize Terraform
-      run: terraform init -backend-config="key=${{ github.ref }}.tfstate"
+      run: terraform init -backend-config="key=refs/pull/${{ github.event.number }}/merge.tfstate"
 
     - name: Terraform Destroy
-      run: terraform destroy -var=ref=${{ github.ref }} -auto-approve
+      run: terraform destroy -var=ref=refs/pull/${{ github.event.number }}/merge -auto-approve

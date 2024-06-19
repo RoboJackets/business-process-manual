@@ -57,5 +57,6 @@ jobs:
 
     - name: Invalidate CloudFront cache
       uses: docker://public.ecr.aws/aws-cli/aws-cli
+      continue-on-error: true
       with:
         args: cloudfront create-invalidation --distribution-id ${{ inputs.cloudfront_distribution_id }} --paths "/*"

@@ -43,7 +43,7 @@ data "aws_iam_policy_document" "s3_policy" {
     resources = ["${aws_s3_bucket.bucket.arn}/*"]
 
     principals {
-      type        = "Service"
+      type = "Service"
       identifiers = [
         "cloudfront.amazonaws.com",
       ]
@@ -63,7 +63,7 @@ data "aws_iam_policy_document" "s3_policy" {
     resources = [aws_s3_bucket.bucket.arn]
 
     principals {
-      type        = "Service"
+      type = "Service"
       identifiers = [
         "cloudfront.amazonaws.com",
       ]
@@ -93,8 +93,8 @@ resource "aws_cloudfront_origin_access_control" "allow_cloudfront_access_to_s3" 
 
 resource "aws_cloudfront_distribution" "cloudfront" {
   origin {
-    domain_name = aws_s3_bucket.bucket.bucket_regional_domain_name
-    origin_id   = local.s3_origin_id
+    domain_name              = aws_s3_bucket.bucket.bucket_regional_domain_name
+    origin_id                = local.s3_origin_id
     origin_access_control_id = aws_cloudfront_origin_access_control.allow_cloudfront_access_to_s3.id
   }
 
@@ -114,7 +114,7 @@ resource "aws_cloudfront_distribution" "cloudfront" {
     }
 
     function_association {
-      event_type = "viewer-request"
+      event_type   = "viewer-request"
       function_arn = "arn:aws:cloudfront::771971951923:function/dirhtml-uri-support"
     }
   }
@@ -123,7 +123,7 @@ resource "aws_cloudfront_distribution" "cloudfront" {
   enabled             = true
   is_ipv6_enabled     = true
   price_class         = "PriceClass_100"
-  http_version = "http3"
+  http_version        = "http3"
   wait_for_deployment = false
 
   restrictions {

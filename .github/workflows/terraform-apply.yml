@@ -3,10 +3,6 @@ name: Build CloudFront Environment
 
 on:
   workflow_call:
-    inputs:
-      ref:
-        required: true
-        type: string
     outputs:
       cloudfront_domain:
         value: ${{ jobs.terraform-apply.outputs.cloudfront_domain }}
@@ -25,7 +21,7 @@ jobs:
       contents: read
 
     concurrency:
-      group: terraform-apply-${{ inputs.ref }}
+      group: terraform-apply-${{ github.ref }}
       cancel-in-progress: false
 
     outputs:
@@ -54,13 +50,13 @@ jobs:
       run: terraform fmt -check
 
     - name: Initialize Terraform
-      run: terraform init -backend-config="key=${{ inputs.ref }}.tfstate"
+      run: terraform init -backend-config="key=${{ github.ref }}.tfstate"
 
     - name: Validate Terraform code
       run: terraform validate
 
     - name: Terraform Apply
-      run: terraform apply -var=ref=${{ inputs.ref }} -auto-approve
+      run: terraform apply -var=ref=${{ github.ref }} -auto-approve
 
     - name: Get Terraform outputs
       id: get_outputs

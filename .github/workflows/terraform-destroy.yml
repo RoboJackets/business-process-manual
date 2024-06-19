@@ -1,0 +1,43 @@
+---
+name: Remove preview environments for closed PRs
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  terraform-destroy:
+    name: Destroy CloudFront Environment
+    runs-on: ubuntu-24.04
+
+    permissions:
+      id-token: write
+      contents: read
+
+    concurrency:
+      group: terraform-apply-${{ github.ref }}
+      cancel-in-progress: false
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v3
+      with:
+        terraform_wrapper: false
+
+    - name: Get AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-region: us-east-1
+        role-to-assume: arn:aws:iam::771971951923:role/bpm-preview-provisioning
+        audience: sts.amazonaws.com
+        role-duration-seconds: 900
+
+    - name: Initialize Terraform
+      run: terraform init -backend-config="key=${{ github.ref }}.tfstate"
+
+    - name: Terraform Destroy
+      run: terraform destroy -var=ref=${{ github.ref }} -auto-approve

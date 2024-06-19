@@ -11,25 +11,42 @@ jobs:
     name: Build Artifact
     uses: ./.github/workflows/build-artifact.yml
 
-  deploy-github-pages:
-    name: Deploy to GitHub Pages
-    runs-on: ubuntu-24.04
+  terraform-apply:
+    name: Build CloudFront Environment
+    uses: ./.github/workflows/terraform-apply.yml
+    with:
+      ref: ${{ github.ref }}
 
-    needs: build-artifact
+  cloudfront-deploy:
+    name: Deploy to CloudFront
+    uses: ./.github/workflows/cloudfront-deploy.yml
+    needs:
+    - build-artifact
+    - terraform-apply
+    with:
+      cloudfront_domain: ${{ needs.terraform-apply.outputs.cloudfront_domain }}
+      cloudfront_distribution_id: ${{ needs.terraform-apply.outputs.cloudfront_distribution_id }}
+      s3_bucket_name: ${{ needs.terraform-apply.outputs.s3_bucket_name }}
 
-    permissions:
-      pages: write
-      id-token: write
+  # deploy-github-pages:
+  #   name: Deploy to GitHub Pages
+  #   runs-on: ubuntu-24.04
 
-    environment:
-      name: github-pages
-      url: https://bpm.robojackets.org
+  #   needs: build-artifact
 
-    concurrency:
-      group: deploy-github-pages
-      cancel-in-progress: false
+  #   permissions:
+  #     pages: write
+  #     id-token: write
 
-    steps:
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+  #   environment:
+  #     name: github-pages
+  #     url: https://bpm.robojackets.org
+
+  #   concurrency:
+  #     group: deploy-github-pages
+  #     cancel-in-progress: false
+
+  #   steps:
+  #   - name: Deploy to GitHub Pages
+  #     id: deployment
+  #     uses: actions/deploy-pages@v4

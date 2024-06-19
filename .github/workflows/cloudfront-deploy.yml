@@ -1,0 +1,61 @@
+---
+name: Deploy to CloudFront
+
+on:
+  workflow_call:
+    inputs:
+      cloudfront_domain:
+        required: true
+        type: string
+
+      cloudfront_distribution_id:
+        required: true
+        type: string
+
+      s3_bucket_name:
+        required: true
+        type: string
+
+jobs:
+  cloudfront-deploy:
+    name: Deploy to CloudFront
+    runs-on: ubuntu-24.04
+
+    permissions:
+      id-token: write
+      contents: read
+
+    environment:
+      name: preview
+      url: https://${{ inputs.cloudfront_domain }}
+
+    concurrency:
+      group: cloudfront-deploy-${{ cloudfront_distribution_id }}
+      cancel-in-progress: true
+
+    steps:
+    - name: Download GitHub Pages artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: github-pages
+
+    - name: Unpack GitHub Pages artifact
+      run: tar xvf github-pages
+
+    - name: Get AWS credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-region: us-east-1
+        role-to-assume: arn:aws:iam::771971951923:role/bpm-preview-provisioning
+        audience: sts.amazonaws.com
+        role-duration-seconds: 900
+
+    - name: Sync docs to S3
+      uses: docker://public.ecr.aws/aws-cli/aws-cli
+      with:
+        args: s3 sync --region us-east-1 github-pages s3://${{ inputs.s3_bucket_name }}
+
+    - name: Invalidate CloudFront cache
+      uses: docker://public.ecr.aws/aws-cli/aws-cli
+      with:
+        args: cloudfront create-invalidation --distribution-id ${{ inputs.cloudfront_distribution_id }} --paths "/*"

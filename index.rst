@@ -15,6 +15,10 @@ Welcome to Business Process Manual's documentation!
 
    nested-directory/index
 
+.. todolist::
+
+.. todo:: something
+
 
 Indices and tables
 ==================

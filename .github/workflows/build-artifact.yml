@@ -46,8 +46,8 @@ jobs:
       run: |
         set -eux
         npm install -g npm@latest
-        npx html-minifier --input-dir /docs/ --output-dir /docs/ --file-ext html --collapse-whitespace --collapse-inline-tag-whitespace --minify-css --minify-js --minify-urls ROOT_PATH_RELATIVE --remove-comments --remove-empty-attributes --conservative-collapse
-        find /docs/ -type f -size +0 | while read file; do
+        npx html-minifier --input-dir _build/dirhtml/ --output-dir _build/dirhtml/ --file-ext html --collapse-whitespace --collapse-inline-tag-whitespace --minify-css --minify-js --minify-urls ROOT_PATH_RELATIVE --remove-comments --remove-empty-attributes --conservative-collapse
+        find _build/dirhtml/ -type f -size +0 | while read file; do
             filename=$(basename -- "$file");
             extension="${filename##*.}";
             if [ "$extension" = "js" ]; then

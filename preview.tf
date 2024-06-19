@@ -140,7 +140,7 @@ resource "aws_cloudfront_distribution" "cloudfront" {
 }
 
 output "s3_bucket_name" {
-  value = aws_s3_bucket.bucket.name
+  value = aws_s3_bucket.bucket.id
 }
 
 output "cloudfront_distribution_id" {

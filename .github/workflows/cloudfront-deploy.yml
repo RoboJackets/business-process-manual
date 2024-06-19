@@ -30,7 +30,7 @@ jobs:
       url: https://${{ inputs.cloudfront_domain }}
 
     concurrency:
-      group: cloudfront-deploy-${{ cloudfront_distribution_id }}
+      group: cloudfront-deploy-${{ inputs.cloudfront_distribution_id }}
       cancel-in-progress: true
 
     steps:

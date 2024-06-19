@@ -50,7 +50,7 @@ html_static_path = ['_static']
 html_title = "Business Process Manual"
 html_theme_options = {
     "source_repository": "https://github.com/RoboJackets/business-process-manual/",
-    "source_branch": os.environ.get("GIT_REF", "refs/heads/main")[11:],
+    "source_branch": os.environ.get("GIT_REF", "main"),
     "source_directory": "/",
     "footer_icons": [
         {

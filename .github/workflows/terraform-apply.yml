@@ -60,7 +60,7 @@ jobs:
       run: terraform validate
 
     - name: Terraform Apply
-      run: terraform apply -var=ref=${{ inputs.ref }}
+      run: terraform apply -var=ref=${{ inputs.ref }} -auto-approve
 
     - name: Get Terraform outputs
       id: get_outputs

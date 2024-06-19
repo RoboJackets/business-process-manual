@@ -3,6 +3,8 @@
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
+import os
+
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
@@ -48,7 +50,7 @@ html_static_path = ['_static']
 html_title = "Business Process Manual"
 html_theme_options = {
     "source_repository": "https://github.com/RoboJackets/business-process-manual/",
-    "source_branch": "main",
+    "source_branch": os.environ.get["GIT_REF"][11:] if os.environ.get["GIT_REF"] is not None else "main",
     "source_directory": "/",
     "footer_icons": [
         {

@@ -41,6 +41,8 @@ jobs:
 
     - name: Build Sphinx docs
       run: poetry run sphinx-build -M dirhtml . _build
+      env:
+        GIT_REF: ${{ github.ref }}
 
     - name: Run Vale
       uses: docker://jdkato/vale

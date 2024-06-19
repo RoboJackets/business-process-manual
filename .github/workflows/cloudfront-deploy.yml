@@ -40,7 +40,7 @@ jobs:
         name: github-pages
 
     - name: Unpack GitHub Pages artifact
-      run: ls -al && tar xvf github-pages
+      run: tar xvf artifact.tar && rm artifact.tar
 
     - name: Get AWS credentials
       uses: aws-actions/configure-aws-credentials@v4
@@ -53,7 +53,7 @@ jobs:
     - name: Sync docs to S3
       uses: docker://public.ecr.aws/aws-cli/aws-cli
       with:
-        args: s3 sync --region us-east-1 github-pages s3://${{ inputs.s3_bucket_name }}
+        args: s3 sync --region us-east-1 . s3://${{ inputs.s3_bucket_name }}
 
     - name: Invalidate CloudFront cache
       uses: docker://public.ecr.aws/aws-cli/aws-cli

@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "business-process-manual"
+version = "0"
+description = "Documentation describing business processes within RoboJackets"
+authors = ["Kristaps Berzinch <kristapsberzinch@gmail.com>"]
+readme = "README.md"
+license = "CC-BY-NC-SA-4.0"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sphinx = "^7.3.7"
+sphinx-autobuild = "^2024.4.16"
+sphinxext-opengraph = "^0.9.1"
+furo = {url = "https://github.com/pradyunsg/furo/archive/refs/heads/main.zip"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

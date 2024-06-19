@@ -1,0 +1,12 @@
+---
+name: Build
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build-artifact:
+    name: Build Artifact
+    uses: ./.github/workflows/build-artifact.yml

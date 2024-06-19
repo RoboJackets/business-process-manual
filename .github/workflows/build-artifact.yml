@@ -1,0 +1,42 @@
+---
+name: Build Artifact
+
+on:
+  workflow_call:
+
+jobs:
+  build-artifact:
+    name: Build Artifact
+    runs-on: ubuntu-24.04
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Register problem matchers
+      run: echo "::add-matcher::.github/matchers.json"
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Setup Poetry
+      uses: abatilo/actions-poetry@v3
+
+    - name: Cache the virtualenv
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pypoetry
+        key: venv-${{ hashFiles('poetry.lock') }}
+
+    - name: Install Poetry dependencies
+      run: poetry install
+
+    - name: Build Sphinx docs
+      run: poetry run sphinx-build -M dirhtml . _build
+
+    - name: Upload GitHub Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: _build/

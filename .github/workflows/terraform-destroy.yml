@@ -1,5 +1,5 @@
 ---
-name: Remove preview environments for closed PRs
+name: Destroy CloudFront Environment
 
 on:
   pull_request:

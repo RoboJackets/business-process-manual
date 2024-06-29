@@ -9,7 +9,7 @@
     "platformAutomerge": true,
     "lockFileMaintenance": {
         "enabled": true,
-        "schedule": ["before 4pm on Wednesday except before 9am on Wednesday"]
+        "schedule": ["before 4pm every weekday except before 9am every weekday"]
     },
     "python": {
         "packageRules": [
@@ -21,5 +21,5 @@
     },
     "rangeStrategy": "pin",
     "timezone": "America/New_York",
-    "schedule": ["before 4pm on Wednesday except before 9am on Wednesday"]
+    "schedule": ["before 4pm every weekday except before 9am every weekday"]
 }

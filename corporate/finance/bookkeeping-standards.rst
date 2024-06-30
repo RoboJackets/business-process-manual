@@ -1,3 +1,5 @@
+:og:description: RoboJackets financial records should comply with Generally Accepted Accounting Principles and Internal Revenue Service standards by default. This page documents standards for specific transactions.
+
 Bookkeeping standards
 =====================
 

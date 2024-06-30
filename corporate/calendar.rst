@@ -1,7 +1,15 @@
+:nosearch:
+:og:description: This page describes tasks that must be completed on a set schedule.
+
 Calendar of tasks
 =================
 
 .. vale Google.LyHyphens = NO
+.. vale Google.Passive = NO
+.. vale write-good.E-Prime = NO
+.. vale write-good.Passive = NO
+
+This page describes tasks that must be completed on a set schedule.
 
 January
 -------

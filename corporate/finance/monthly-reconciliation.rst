@@ -1,4 +1,5 @@
 :hide-toc:
+:og:description: The corporation should perform monthly reconciliation and reporting of all financial transactions to ensure the board of directors has visibility into the financial health of the organization.
 
 Monthly reconciliation
 ======================

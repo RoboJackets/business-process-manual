@@ -37,15 +37,17 @@ Students must `submit reimbursement requests in BILL Spend & Expense <https://he
 Once the request is approved by a budget owner and an administrator, BILL will withdraw the funds from Mercury.
 The withdrawal description will be :guilabel:`Divvy Reimbursem; ACH; RoboJackets Inc`.
 Foundation Group is responsible for creating expense transactions based on the reimbursement requests recorded in BILL.
-See the `BILL Spend & Expense documentation for more information <https://help.bill.com/direct/s/article/6100724>`_.
 
 .. vale Vale.Spelling = YES
+
+.. seealso::
+   See the `BILL Spend & Expense documentation <https://help.bill.com/direct/s/article/6100724>`_ for more information on viewing reimbursements within BILL.
 
 Square payments
 ---------------
 
 .. vale Google.We = NO
 
-`Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/5438-next-business-day-deposit-schedule>`.
+`Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/5438-next-business-day-deposit-schedule>`_.
 Foundation Group is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.
 RoboJackets is responsible for maintaining the `Square app transactions feed into QuickBooks <https://squareup.com/help/us/en/article/5180-intuit-quickbooks-and-square>`_.

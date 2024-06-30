@@ -8,9 +8,9 @@ Business Process Manual
 .. toctree::
    :caption: Corporate
 
+   corporate/finance/index
    corporate/address-changes
    corporate/officer-changes
-   corporate/bookkeeping-standards
    corporate/identifiers
    corporate/merchandise-sales
    corporate/calendar

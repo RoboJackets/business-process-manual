@@ -23,7 +23,7 @@ Once Foundation Group provides reports, review the reports within two business d
 Foundation Group responsibilities
 ---------------------------------
 
-* Create expense entries for reimbursements to members, credit card account payments, credit card refunds, and expedited shipping fees from BILL Spend & Expense
+* Create expense entries for reimbursements to students, credit card account payments, credit card refunds, and expedited shipping fees from BILL Spend & Expense
 * Split any foreign transaction fees from BILL Spend & Expense transactions paid to foreign merchants
 * Split processing fees deducted from Square deposits
 * Create expense entries for any Mercury credit card or bank account transactions

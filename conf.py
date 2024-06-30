@@ -84,3 +84,8 @@ html_theme_options = {
         },
     ],
 }
+
+linkcheck_ignore = [
+  r'https://help\.bill\.com/direct/s/article/(\d{7})',
+  r'https://sos\.ga\.gov/.+',
+]

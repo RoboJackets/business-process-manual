@@ -17,7 +17,7 @@ January
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * Submit Sales & Use Tax Return to the Georgia Department of Revenue
 * `File Annual Registration with the Georgia Secretary of State <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_
-* Hold quarterly board meeting
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 * Reconcile 1099-K received from Square to QuickBooks records
 
 February
@@ -38,7 +38,7 @@ April
 -----
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Hold quarterly board meeting
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 
 May
 ---
@@ -58,7 +58,7 @@ July
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * Begin compiling documentation for Internal Revenue Service Form 990-EZ
-* Hold quarterly board meeting - elect directors and officers
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>` - elect directors and officers
 
 August
 ------
@@ -75,7 +75,7 @@ October
 ---------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Hold quarterly board meeting
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 
 November
 --------

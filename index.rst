@@ -14,6 +14,7 @@ Business Process Manual
    corporate/identifiers
    corporate/merchandise-sales
    corporate/calendar
+   corporate/board-meetings
 
 .. toctree::
    :caption: BILL Spend & Expense

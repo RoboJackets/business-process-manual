@@ -28,17 +28,17 @@ February
 March
 -----
 
-* :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-
-April
------
-
 .. vale Google.Units = NO
 .. vale Google.Ordinal = NO
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Hold quarterly board meeting
 * `Annual Registration with the Georgia Secretary of State <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ due by April 1st
+
+April
+-----
+
+* :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
+* Hold quarterly board meeting
 
 May
 ---

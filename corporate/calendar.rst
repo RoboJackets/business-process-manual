@@ -63,8 +63,10 @@ July
 August
 ------
 
+.. vale Vale.Terms = NO
+
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Audit BILL Spend & Expense cardholders
+* :doc:`Audit BILL Spend & Expense cardholders </bill-spend-expense/cardholder-audit>`
 
 September
 ---------

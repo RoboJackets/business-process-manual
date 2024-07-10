@@ -11,7 +11,7 @@ Bookkeeping standards
 .. vale write-good.Passive = NO
 .. vale write-good.TooWordy = NO
 
-RoboJackets financial records should comply with Generally Accepted Accounting Principles and Internal Revenue Service standards by default.
+RoboJackets financial records should comply with `generally accepted accounting principles <https://asc.fasb.org>`_ and Internal Revenue Service standards by default.
 This page documents standards for specific transactions.
 
 Restricted funds

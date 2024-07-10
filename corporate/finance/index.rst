@@ -7,3 +7,5 @@ Finance
 
    monthly-reconciliation
    bookkeeping-standards
+   sales-tax
+   1099k

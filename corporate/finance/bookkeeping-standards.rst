@@ -19,7 +19,7 @@ Restricted funds
 
 RoboJackets, Inc. generally doesn't accept donations.
 As a 501(c)(7) exempt organization, donations aren't tax-deductible for donors.
-Most donors should be directed to Georgia Tech Foundation, Inc. or another Georgia Tech affiliate to process donations.
+Most donors should be directed to donate to Georgia Tech Foundation, Inc.
 
 Payments from Georgia Tech are generally restricted, and must be tagged with the :guilabel:`Restricted` class within QuickBooks.
 Any payments should be traceable to an expense, and the expense should also be tagged with the :guilabel:`Restricted` class within QuickBooks.

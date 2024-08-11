@@ -44,6 +44,11 @@ jobs:
       env:
         GIT_REF: ${{ github.head_ref || 'main' }}
 
+    - name: Run Linkcheck
+      run: poetry run sphinx-build -M linkcheck . _build
+      env:
+        GIT_REF: ${{ github.head_ref || 'main' }}
+
     - name: Run Vale
       uses: docker://jdkato/vale
       with:

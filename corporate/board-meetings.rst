@@ -25,6 +25,8 @@ Minutes
 
 Minutes must be signed by the secretary, retained within Google Workspace, and published to the corporation website as soon as practical after the meeting concludes.
 
+The secretary can use `DocHub <https://dochub.com>`_ or `Adobe Fill & Sign <https://www.adobe.com/acrobat/online/sign-pdf.html>`_ to sign minutes.
+
 The corporate website is located at https://corporate.robojackets.org and published using `GitHub Pages <https://github.com/RoboJackets/corporate.robojackets.org>`_.
 
 .. seealso::

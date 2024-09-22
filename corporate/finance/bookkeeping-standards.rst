@@ -48,6 +48,6 @@ Square payments
 
 .. vale Google.We = NO
 
-`Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/5438-next-business-day-deposit-schedule>`_.
+`Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/3807-deposit-options-with-square>`_.
 Foundation Group is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.
 RoboJackets is responsible for maintaining the `Square app transactions feed into QuickBooks <https://squareup.com/help/us/en/article/5180-intuit-quickbooks-and-square>`_.

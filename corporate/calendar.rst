@@ -58,7 +58,8 @@ July
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * Begin compiling documentation for Internal Revenue Service Form 990-EZ
-* :doc:`Hold quarterly board meeting </corporate/board-meetings>` - elect directors and officers
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <Elections>`
+* Collect annual conflict of interest statements from all directors and officers
 
 August
 ------
@@ -77,7 +78,7 @@ October
 ---------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* :doc:`Hold quarterly board meeting </corporate/board-meetings>`
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`review the budget for the year <Budget review>`
 
 November
 --------

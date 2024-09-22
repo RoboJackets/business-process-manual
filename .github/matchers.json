@@ -1,12 +1,23 @@
 {
   "problemMatcher": [
     {
-      "owner": "sphinx-build",
+      "owner": "sphinx-build-with-line-number",
       "pattern": [
         {
-          "regexp": "^\\/home\\/runner\\/work\\/business-process-manual\\/business-process-manual\\/([a-zA-Z0-9-\\.\\/]+)(?:\\:?)(\\d*):\\s+([a-zA-Z]+):\\s+(.+)$",
+          "regexp": "^\\/home\\/runner\\/work\\/business-process-manual\\/business-process-manual\\/([a-zA-Z0-9-\\.\\/]+):(\\d+):\\s+([a-zA-Z]+):\\s+(.+)$",
           "file": 1,
           "line": 2,
+          "severity": 3,
+          "message": 4
+        }
+      ]
+    },
+    {
+      "owner": "sphinx-build-without-line-number",
+      "pattern": [
+        {
+          "regexp": "^\\/home\\/runner\\/work\\/business-process-manual\\/business-process-manual\\/([a-zA-Z0-9-\\.\\/]+):\\s+([a-zA-Z]+):\\s+(.+)$",
+          "file": 1,
           "severity": 3,
           "message": 4
         }

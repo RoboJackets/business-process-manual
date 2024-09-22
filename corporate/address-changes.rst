@@ -16,7 +16,7 @@ In the event the address needs to be updated, the following organizations need t
 Georgia Secretary of State
 --------------------------
 
-`File an amended registration <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ or wait until the following annual registration.
+`File an amended registration <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ or wait until the :ref:`following annual registration <January>`.
 
 .. note::
    The Secretary of State registration is the authoritative record of the organization's address and should be updated first.

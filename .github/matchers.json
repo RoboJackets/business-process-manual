@@ -18,8 +18,8 @@
         {
           "regexp": "^\\/home\\/runner\\/work\\/business-process-manual\\/business-process-manual\\/([a-zA-Z0-9-\\.\\/]+):\\s+([a-zA-Z]+):\\s+(.+)$",
           "file": 1,
-          "severity": 3,
-          "message": 4
+          "severity": 2,
+          "message": 3
         }
       ]
     },

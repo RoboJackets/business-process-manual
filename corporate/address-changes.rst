@@ -114,12 +114,12 @@ Update the :guilabel:`Tax information` section under :menuselection:`Admin Conso
 Postmark
 --------
 
-Update the billing address for the card under :menuselection:`Account --> Billing Details` in `account settings <https://account.postmarkapp.com/billing_settings>`_.
+Update the billing address for the card on file under :menuselection:`Account --> Billing Details` in `account settings <https://account.postmarkapp.com/billing_settings>`_.
 
 Northwest Registered Agent
 --------------------------
 
-Update the billing address for the card during the next payment.
+Update the billing address for the card on file during the next payment.
 
 Corporation website
 -------------------

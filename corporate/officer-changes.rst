@@ -17,3 +17,4 @@ When new officers are elected, records must be updated in the following location
 * Dun and Bradstreet
 * Mercury
 * BILL Spend & Expense
+* Square account transfer

@@ -84,7 +84,7 @@ Google Play Developer
 After updating the address with :ref:`Dun & Bradstreet`, Google Play will send a notification to the account owner.
 
 .. seealso::
-   See the `Google Play Developer support documentation <https://support.google.com/googleplay/android-developer/answer/13634888#zippy=%2Cupdate-organization-developer-account-information>`_ for more information.
+   See the `Google Play Developer support documentation <https://support.google.com/googleplay/android-developer/answer/13634888>`_ for more information.
 
 Apple Developer
 ---------------
@@ -109,7 +109,7 @@ This is manually managed by finance professionals at the Institute. Notify the s
 Bitwarden
 ---------
 
-Update the :guilabel:`Tax information` section under :menuselection:`Admin Console --> Billing --> Payment method` in the `Bitwarden Web Vault <https://vault.bitwarden.com/#/organizations/f9b62b61-9f71-47bb-8b52-acd1016d9ab2/billing/payment-method>`_.
+Update the :guilabel:`Tax information` section under :menuselection:`Admin Console --> Billing --> Payment method` in the `Bitwarden Web Vault <https://vault.bitwarden.com>`_.
 
 Postmark
 --------

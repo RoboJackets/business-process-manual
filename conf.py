@@ -86,8 +86,9 @@ html_theme_options = {
 }
 
 linkcheck_ignore = [
+  r'https://app\.squareup\.com\/dashboard\/.+',
+  r'https://asc\.fasb\.org',
   r'https://help\.bill\.com/direct/s/article/(\d{7})',
   r'https://sos\.ga\.gov/.+',
-  r'https://asc\.fasb\.org',
   r'https://www\.adobe\.com.+'
 ]

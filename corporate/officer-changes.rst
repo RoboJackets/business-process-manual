@@ -1,20 +1,101 @@
-:nosearch:
+:og:description: When the board elects new officers, the following organizations need to be notified as soon as practical.
 
 Officer changes
 ===============
 
-.. todo:: Finish writing this page
-
 .. vale Google.Passive = NO
 .. vale write-good.Passive = NO
 .. vale write-good.E-Prime = NO
+.. vale Google.Headings = NO
 
-When new officers are elected, records must be updated in the following locations:
+When the board elects new officers, the following organizations need to be notified as soon as practical.
 
-* Google Voice billing
-* Northwest account transfer
-* Georgia secretary of state
-* Dun and Bradstreet
-* Mercury
-* BILL Spend & Expense
-* Square account transfer
+All officer changes
+-------------------
+
+Georgia Secretary of State
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`File an amended registration <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_.
+
+.. note::
+   The Secretary of State registration is the authoritative record of the organization officers and should be updated first.
+
+Corporation website
+~~~~~~~~~~~~~~~~~~~
+
+Update `this Markdown file <https://github.com/RoboJackets/corporate.robojackets.org/blob/gh-pages/index.md>`_.
+
+President
+---------
+
+Dun & Bradstreet
+~~~~~~~~~~~~~~~~
+
+Update the principal officer under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://duns-update.dnb.com>`_.
+
+.. note::
+   Some vendors use the Dun & Bradstreet record to verify officer changes. Update officers with D&B before any vendors.
+
+Gandi
+~~~~~
+
+Update the :guilabel:`Postal Address` under the organization profile in the `Dashboard <https://admin.gandi.net>`_.
+
+Update the owner, administrative contact, technical contact, and billing contact for all registered domains.
+
+Treasurer
+---------
+
+Georgia Department of Revenue
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Update the responsible party for the sales and use tax account under :menuselection:`More… --> Management --> Update Officers` in `Georgia Tax Center <https://gtc.dor.ga.gov>`_.
+
+Internal Revenue Service
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+`File Form 8822-B <https://www.irs.gov/forms-pubs/about-form-8822-b>`_.
+
+.. note::
+   Form 8822-B must be filed within 60 days of the new treasurer being elected.
+
+Mercury
+~~~~~~~
+
+Add the new treasurer as an administrator under the `Team <https://app.mercury.com/settings/team>`_ tab in settings.
+
+BILL Spend & Expense
+~~~~~~~~~~~~~~~~~~~~
+
+Add the new treasurer as an administrator under the `People <https://app.divvy.co/companies/Q29tcGFueTo0MzAzMw==/people>`_ tab.
+
+Ramp
+~~~~
+
+Add the new treasurer as an administrator under the `People <https://app.ramp.com/people/all>`_ tab.
+
+Square
+~~~~~~
+
+.. vale Google.FirstPerson = NO
+
+Transfer the business under `About my business <https://app.squareup.com/dashboard/business/about-my-business>`_.
+
+Google Voice
+~~~~~~~~~~~~
+
+Update the :guilabel:`Name` and :guilabel:`Payments contacts` in the `Google Admin Console <https://admin.google.com>`_, under :menuselection:`Billing --> Subscriptions --> Google Voice Starter --> View payment settings`.
+
+Northwest Registered Agent
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Update the email associated with the account to the new treasurer's email.
+If the new treasurer already has a Northwest account and the company is shared with them, contact support.
+
+Foundation Group
+~~~~~~~~~~~~~~~~
+
+.. vale Google.We = NO
+
+Notify the customer success manager assigned to our account.

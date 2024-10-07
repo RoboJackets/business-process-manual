@@ -40,7 +40,7 @@ Dun & Bradstreet
 Update the business address under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://duns-update.dnb.com>`_.
 
 .. note::
-   Some vendors listed below will use the Dun & Bradstreet record to verify address changes. Update the address with D&B before any vendors.
+   Some vendors listed below use the Dun & Bradstreet record to verify address changes. Update the address with D&B before any vendors.
 
 Mercury
 -------
@@ -50,7 +50,12 @@ Update the company legal address and company mailing addresses on the `Company P
 BILL Spend & Expense
 --------------------
 
-Update the billing address and mailing addresses on the `Company Information <https://app.divvy.co/companies/Q29tcGFueTo0MzAzMw==/settings/company-info>`_ tab in settings.
+Update the billing address and mailing addresses on the `Company Information <https://app.divvy.co/companies/Q29tcGFueTo0MzAzMw==/settings/company-info>`_ tab under :guilabel:`Settings`.
+
+Ramp
+----
+
+Update the business address on the `Company settings <https://app.ramp.com/settings/company-settings/profile>`_ tab under :guilabel:`Settings`.
 
 Square
 ------

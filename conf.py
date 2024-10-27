@@ -86,7 +86,6 @@ html_theme_options = {
 }
 
 linkcheck_ignore = [
-  'https://www.transunion.com'
   r'https://app\.divvy\.co/.+',
   r'https://app\.squareup\.com/dashboard/.+',
   r'https://asc\.fasb\.org',
@@ -94,4 +93,5 @@ linkcheck_ignore = [
   r'https://sos\.ga\.gov.*',
   r'https://www\.adobe\.com/.+'
   r'https://www\.dnb\.com.*'
+  r'https://www\.transunion\.com/'
 ]

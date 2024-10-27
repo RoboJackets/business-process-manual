@@ -13,7 +13,7 @@ The corporation has several identifiers assigned by different organizations for 
 Control number
 -----------------------------------------
 
-The control number is assigned by the `Georgia Secretary of State <https://sos.ga.gov/>`_ at the time of business formation, and uniquely identifies this corporation within Georgia.
+The control number is assigned by the `Georgia Secretary of State <https://sos.ga.gov>`_ at the time of business formation, and uniquely identifies this corporation within Georgia.
 It's primarily used for `filing annual or amended registrations <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ with the Secretary of State, and generally doesn't need to be provided to vendors.
 
 The RoboJackets, Inc. control number is **20122163**.
@@ -24,7 +24,7 @@ The RoboJackets, Inc. control number is **20122163**.
 Employer Identification Number
 ------------------------------
 
-The :abbr:`EIN (Employer Identification Number)` is assigned by the `Internal Revenue Service <https://www.irs.gov/>`_ and identifies this organization to the IRS.
+The :abbr:`EIN (Employer Identification Number)` is assigned by the `Internal Revenue Service <https://www.irs.gov>`_ and identifies this organization to the IRS.
 Read more about EINs on the `IRS website <https://www.irs.gov/charities-non-profits/employer-identification-number>`_.
 
 .. vale Google.WordList = NO
@@ -45,7 +45,7 @@ D-U-N-S Number
 The :abbr:`D-U-N-S (Data Universal Numbering System)` number is assigned by `Dun & Bradstreet <https://www.dnb.com/>`_ and serves as a general-purpose business identifier.
 Read more about D-U-N-S numbers on the `D&B website <https://www.dnb.com/duns.html>`_.
 
-Dun & Bradstreet is a credit reporting agency for businesses, similar to `Experian <https://www.experian.com/>`_, `Equifax <https://www.equifax.com/>`_, and `TransUnion <https://www.transunion.com/>`_ for consumers.
+Dun & Bradstreet is a credit reporting agency for businesses, similar to `Experian <https://www.experian.com>`_, `Equifax <https://www.equifax.com>`_, and `TransUnion <https://www.transunion.com>`_ for consumers.
 
 Vendors may request a D-U-N-S number for business verification, or as part of a credit application.
 

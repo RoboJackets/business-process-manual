@@ -10,3 +10,9 @@ Foundation Group
 deposit
 Bottomline
 Paymode
+IRS
+EIN
+EINs
+ATA
+Experian
+Equifax

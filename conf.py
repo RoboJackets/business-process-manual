@@ -94,4 +94,5 @@ linkcheck_ignore = [
   r'https://www\.adobe\.com',
   r'https://www\.dnb\.com',
   r'https://www\.transunion\.com',
+  r'https://dash\.cloudflare\.com',
 ]

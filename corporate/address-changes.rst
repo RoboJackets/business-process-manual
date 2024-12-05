@@ -71,12 +71,25 @@ Update the company information in `Paymode <https://secure.paymode.com/px/admin/
    This account is currently unused.
    It was originally established for the :ref:`Georgia Tech vendor registration`, which is also currently unused.
 
-Gandi
------
+Cloudflare
+----------
 
-Update the :guilabel:`Postal Address` under the organization profile in the `Dashboard <https://admin.gandi.net>`_.
+Update the address in the `Cloudflare dashboard <https://dash.cloudflare.com/>`_, under :menuselection:`Domain Registration --> Manage Domains --> Default contact`.
 
 Update the owner, administrative contact, technical contact, and billing contact for all registered domains.
+
+.. vale Vale.Spelling = NO
+
+Registro de Dominios .gt
+------------------------
+
+.. vale Google.WordList = NO
+.. vale Vale.Spelling = YES
+
+Changes must be submitted via email to `admin@cctld.gt <mailto:admin@cctld.gt>`_.
+See contact change procedures on the `Procedures <https://www.gt/sitio/procedures.php?lang=en>`_ page.
+
+.. vale Google.WordList = YES
 
 Google Voice
 ------------

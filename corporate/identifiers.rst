@@ -2,7 +2,6 @@
 .. meta::
    :keywords: duns
 
-
 Identifiers
 ===========
 

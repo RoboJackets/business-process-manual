@@ -1,4 +1,6 @@
 :og:description: The corporation has several identifiers assigned by different organizations for different purposes. While most of these identifiers are public information, please check with a corporation officer before providing any of them to a vendor.
+.. meta::
+   :keywords: duns
 
 Identifiers
 ===========

@@ -15,7 +15,7 @@ January
 -------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* :doc:`Submit Sales & Use Tax Return to the Georgia Department of Revenue </corporate/finance/sales-tax>`
+* :doc:`Submit Sales & Use Tax Return to the Georgia Department of Revenue </corporate/finance/sales-tax>`, even if no sales tax was collected in the prior calendar year
 * `File Annual Registration with the Georgia Secretary of State <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 * :doc:`Reconcile 1099-K received from Square to QuickBooks records </corporate/finance/1099k>`

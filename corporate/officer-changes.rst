@@ -29,6 +29,17 @@ Update `this Markdown file <https://github.com/RoboJackets/corporate.robojackets
 President
 ---------
 
+Internal Revenue Service
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+`File Form 8822-B <https://www.irs.gov/forms-pubs/about-form-8822-b>`_.
+
+.. note::
+   Form 8822-B must be filed within 60 days of the new president being elected.
+
+.. seealso::
+   `IRS Publication 557 <https://www.irs.gov/publications/p557#en_US_202401_publink100027645>`_ specifies that the principal officer as defined in the `Form 990 instructions <https://www.irs.gov/pub/irs-pdf/i990.pdf>`_ is the responsible party.
+
 Dun & Bradstreet
 ~~~~~~~~~~~~~~~~
 
@@ -64,14 +75,6 @@ Georgia Department of Revenue
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Update the responsible party for the sales and use tax account under :menuselection:`More… --> Management --> Update Officers` in `Georgia Tax Center <https://gtc.dor.ga.gov>`_.
-
-Internal Revenue Service
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-`File Form 8822-B <https://www.irs.gov/forms-pubs/about-form-8822-b>`_.
-
-.. note::
-   Form 8822-B must be filed within 60 days of the new treasurer being elected.
 
 Mercury
 ~~~~~~~

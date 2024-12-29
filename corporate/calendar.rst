@@ -57,7 +57,7 @@ July
 .. vale write-good.TooWordy = NO
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Begin compiling documentation for Internal Revenue Service Form 990-EZ
+* :doc:`Engage Foundation Group and begin compiling documentation for Internal Revenue Service Form 990-EZ </corporate/finance/990ez>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <Elections>`
 * Collect annual conflict of interest statements from all directors and officers
 
@@ -84,7 +84,7 @@ November
 --------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* E-file Form 990-EZ to the Internal Revenue Service by November 15th
+* :doc:`E-file Form 990-EZ to the Internal Revenue Service by November 15th </corporate/finance/990ez>`
 * `Mail a paper copy of Form 990-EZ to the Georgia Department of Revenue <https://dor.georgia.gov/tax-exempt-organizations-income-tax-faq>`_
 
 December

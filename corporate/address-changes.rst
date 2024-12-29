@@ -29,10 +29,10 @@ Update the business location and mailing addresses under the :guilabel:`Names an
 Internal Revenue Service
 ------------------------
 
-`File Form 8822-B <https://www.irs.gov/charities-non-profits/other-non-profits/change-of-address-exempt-organizations>`_ or wait until the following Form 990 filing.
+`File Form 8822-B <https://www.irs.gov/charities-non-profits/other-non-profits/change-of-address-exempt-organizations>`_ or wait until the following :doc:`Form 990 </corporate/finance/990ez>` filing.
 
 .. note::
-   Even if Form 8822-B is filed, the address update must be noted on the following Form 990.
+   Even if Form 8822-B is filed, the address update must be noted on the following :doc:`Form 990 </corporate/finance/990ez>`.
 
 Dun & Bradstreet
 ----------------

@@ -11,8 +11,12 @@ Form 990
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
 
-The Internal Revenue Service requires exempt organizations to file `Form 990 <https://www.irs.gov/forms-pubs/about-form-990>`_ annually, 5 months after the accounting period ends. RoboJackets operates on a July-June fiscal year, so we must file by November 15th each year. RoboJackets typically files Form 990-EZ.
+The Internal Revenue Service requires exempt organizations to file `Form 990 <https://www.irs.gov/forms-pubs/about-form-990>`_ annually, 5 months after the accounting period ends.
+RoboJackets operates on a July-June fiscal year, so we must file by November 15th each year. RoboJackets typically files Form 990-EZ.
 
-Form 990 is complex, so we've engaged Foundation Group to prepare and file it for most years since incorporating. Contact Foundation Group on July 1st each year to begin the process.
+Form 990 is complex, so we've engaged Foundation Group to prepare and file it for most years since incorporating.
+Contact Foundation Group on July 1st each year to begin the process.
 
-Once the form has been e-filed with the IRS, mail a copy to the Georgia Department of Revenue as instructed in the `Tax Exempt Organizations FAQ <https://dor.georgia.gov/tax-exempt-organizations-income-tax-faq>`_. Certified mail is suggested to receive a delivery receipt. `LetterStream <https://www.letterstream.com/>`_ can be used to print and mail it.
+Once the form has been e-filed with the IRS, mail a copy to the Georgia Department of Revenue as instructed in the `Tax Exempt Organizations FAQ <https://dor.georgia.gov/tax-exempt-organizations-income-tax-faq>`_.
+Certified mail is suggested to receive a delivery receipt.
+`LetterStream <https://www.letterstream.com/>`_ can be used to print and mail it.

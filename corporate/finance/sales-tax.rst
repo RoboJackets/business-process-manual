@@ -14,7 +14,7 @@ RoboJackets calculates and collects sales tax for :doc:`per se sales of branded 
 .. vale Vale.Spelling = YES
 
 Square can automatically calculate sales tax for any pickup or shipped orders.
-Pickup orders are taxed at rate code 060A, which is 8.9% as of January 2025.
+Pickup orders are taxed at county code 060A, which is 8.9% as of January 2025.
 Shipped orders are taxed based on the destination.
 View current sales tax rates on the `Department of Revenue website <https://dor.georgia.gov/sales-tax-rates-general>`_.
 

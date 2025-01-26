@@ -48,6 +48,11 @@ Update the principal officer under the :guilabel:`Company Profile` tab in `D-U-N
 .. note::
    Some vendors use the Dun & Bradstreet record to verify officer changes. Update officers with D&B before any vendors.
 
+GuideStar
+~~~~~~~~~
+
+Update the chief executive officer on the `RoboJackets, Inc. profile <https://www.guidestar.org/profile/30-1245512>`_.
+
 Cloudflare
 ~~~~~~~~~~
 

@@ -34,6 +34,11 @@ Internal Revenue Service
 .. note::
    Even if Form 8822-B is filed, the address update must be noted on the following :doc:`Form 990 </corporate/finance/990ez>`.
 
+GuideStar
+---------
+
+Update the mailing address on the `RoboJackets, Inc. profile <https://www.guidestar.org/profile/30-1245512>`_.
+
 Dun & Bradstreet
 ----------------
 

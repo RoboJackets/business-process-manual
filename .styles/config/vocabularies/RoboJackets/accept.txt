@@ -17,3 +17,5 @@ ATA
 Experian
 Equifax
 DNS
+SGA
+GTSF

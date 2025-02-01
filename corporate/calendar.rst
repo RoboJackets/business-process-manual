@@ -39,6 +39,7 @@ April
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>`
+* :ref:`Return any excess payments from Georgia Tech <Excess payments>`
 
 May
 ---

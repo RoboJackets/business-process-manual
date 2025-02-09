@@ -39,13 +39,13 @@ April
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>`
-* :ref:`Return any excess payments from Georgia Tech <Excess payments>`
+* :ref:`Return any excess payments from Georgia Tech <corporate/finance/georgia-tech-payments:Excess payments>`
 
 May
 ---
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Renew Northwest Registered Agent contract
+* :ref:`Renew Northwest Registered Agent contract <corporate/key-vendors:Northwest Registered Agent>`
 
 June
 ----
@@ -59,7 +59,7 @@ July
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Engage Foundation Group and begin compiling documentation for Internal Revenue Service Form 990-EZ </corporate/finance/990ez>`
-* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <Elections>`
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <corporate/board-meetings:Elections>`
 * Collect annual conflict of interest statements from all directors and officers
 
 August
@@ -79,7 +79,7 @@ October
 ---------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`review the budget for the year <Budget review>`
+* :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`review the budget for the year <corporate/board-meetings:Budget review>`
 
 November
 --------

@@ -9,7 +9,7 @@ Remitting sales tax
 .. vale write-good.Passive = NO
 
 Georgia law generally requires sellers of tangible goods to collect and remit sales tax to the state.
-RoboJackets calculates and collects sales tax for :doc:`per se sales of branded merchandise </corporate/merchandise-sales>` within Square.
+RoboJackets calculates and collects sales tax for :doc:`per se sales of branded merchandise </corporate/merchandise-sales>` within :ref:`Square <corporate/key-vendors:Square>`.
 
 .. vale Vale.Spelling = YES
 

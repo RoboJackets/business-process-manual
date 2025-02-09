@@ -25,7 +25,7 @@ Excess payments
 ---------------
 
 Georgia Tech may occasionally pay out reimbursements that don't match an actual expense incurred by RoboJackets, either due to RoboJackets or Georgia Tech error.
-Due to challenges in matching expenses to reimbursements and the time required to resolve issues, RoboJackets notifies Georgia Tech departments of excess payments and returns funds on an annual basis, in :ref:`April`.
+Due to challenges in matching expenses to reimbursements and the time required to resolve issues, RoboJackets notifies Georgia Tech departments of excess payments and returns funds on an annual basis, in :ref:`April <corporate/calendar:April>`.
 
 Payments should be returned per instructions from the receiving department.
 Most payment types should be sent out from `Mercury <https://mercury.com>`_.

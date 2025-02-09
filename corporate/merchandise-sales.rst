@@ -32,7 +32,7 @@ Consider the following expenses when determining the list price for an item.
 Square processing fees
 ~~~~~~~~~~~~~~~~~~~~~~
 
-RoboJackets will pay `about 4% in processing fees <https://squareup.com/us/en/payments/our-fees>`_ for any sales made through Square.
+RoboJackets will pay `about 4% in processing fees <https://squareup.com/us/en/payments/our-fees>`_ for any sales made through :ref:`Square <corporate/key-vendors:Square>`.
 This processing fee must be added to the sale price of the item to avoid a net loss on the sale.
 
 Sales tax

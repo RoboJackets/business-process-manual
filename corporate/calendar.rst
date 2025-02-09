@@ -45,7 +45,7 @@ May
 ---
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
-* Renew Northwest Registered Agent contract
+* :ref:`Renew Northwest Registered Agent contract <Northwest Registered Agent>`
 
 June
 ----

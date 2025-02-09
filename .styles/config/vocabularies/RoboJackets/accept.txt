@@ -19,3 +19,4 @@ Equifax
 DNS
 SGA
 GTSF
+designee

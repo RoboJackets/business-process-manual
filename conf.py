@@ -98,3 +98,5 @@ linkcheck_ignore = [
   r'https://www\.dnb\.com',
   r'https://www\.transunion\.com',
 ]
+
+autosectionlabel_prefix_document = True

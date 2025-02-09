@@ -16,7 +16,7 @@ In the event the address needs to be updated, the following organizations need t
 Georgia Secretary of State
 --------------------------
 
-`File an amended registration <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ or wait until the :ref:`following annual registration <January>`.
+`File an amended registration <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_ or wait until the :ref:`following annual registration <corporate/calendar:January>`.
 
 .. note::
    The Secretary of State registration is the authoritative record of the organization's address and should be updated first.
@@ -74,7 +74,7 @@ Update the company information in `Paymode <https://secure.paymode.com/px/admin/
 
 .. note::
    This account is currently unused.
-   It was originally established for the :ref:`Georgia Tech vendor registration`, which is also currently unused.
+   It was originally established for the :ref:`Georgia Tech vendor registration <corporate/address-changes:Georgia Tech vendor registration>`, which is also currently unused.
 
 Cloudflare
 ----------
@@ -104,7 +104,7 @@ Update the :guilabel:`Organization Address` in the `Google Admin Console <https:
 Google Play Developer
 ---------------------
 
-After updating the address with :ref:`Dun & Bradstreet`, Google Play will send a notification to the account owner.
+After updating the address with :ref:`Dun & Bradstreet <corporate/address-changes:Dun & Bradstreet>`, Google Play will send a notification to the account owner.
 
 .. seealso::
    See the `Google Play Developer support documentation <https://support.google.com/googleplay/android-developer/answer/13634888>`_ for more information.
@@ -114,7 +114,7 @@ Apple Developer
 
 Update :guilabel:`Membership details` in `Apple Developer <https://developer.apple.com/account>`_.
 
-Apple uses :ref:`Dun & Bradstreet` for business verification, so the address should be updated there first.
+Apple uses :ref:`Dun & Bradstreet <corporate/address-changes:Dun & Bradstreet>` for business verification, so the address should be updated there first.
 
 Georgia Tech vendor registration
 --------------------------------
@@ -122,7 +122,7 @@ Georgia Tech vendor registration
 Submit a `ServiceNow request <https://gatech.service-now.com/guest?id=sc_cat_item&sys_id=9ade0cf4db81c010391b9837db961948&sysparm_category=9da900ebdbb08858391b9837db9619af>`_.
 
 .. note::
-   The vendor registration is currently unused, as all payments from Georgia Tech are sent via the :ref:`external committee member <Georgia Tech external committee member>`.
+   The vendor registration is currently unused, as all payments from Georgia Tech are sent via the :ref:`external committee member <corporate/address-changes:Georgia Tech external committee member>`.
 
 Georgia Tech external committee member
 --------------------------------------

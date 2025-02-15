@@ -60,7 +60,7 @@ July
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Engage Foundation Group and begin compiling documentation for Internal Revenue Service Form 990-EZ </corporate/finance/990ez>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <corporate/board-meetings:Elections>`
-* Collect annual conflict of interest statements from all directors and officers
+* :doc:`Collect annual conflict of interest statements from all directors and officers </corporate/conflict-of-interest-policy>`
 
 August
 ------

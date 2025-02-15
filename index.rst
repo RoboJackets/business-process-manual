@@ -8,15 +8,16 @@ Business Process Manual
 .. toctree::
    :caption: Corporate
 
-   corporate/finance/index
    corporate/address-changes
-   corporate/officer-changes
-   corporate/identifiers
-   corporate/merchandise-sales
-   corporate/calendar
    corporate/board-meetings
+   corporate/calendar
+   corporate/conflict-of-interest-policy
    corporate/domain-names
+   corporate/finance/index
+   corporate/identifiers
    corporate/key-vendors
+   corporate/merchandise-sales
+   corporate/officer-changes
 
 .. toctree::
    :caption: BILL Spend & Expense

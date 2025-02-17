@@ -22,10 +22,10 @@ Business Process Manual
 .. toctree::
    :caption: Ramp
 
-   ramp/onboarding
-   ramp/expense-policy
-   ramp/physical-card
    ramp/cardholder-audit
+   ramp/expense-policy
    ramp/offboarding
+   ramp/onboarding
+   ramp/physical-card
 
 .. todolist::

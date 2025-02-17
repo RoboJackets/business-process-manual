@@ -28,20 +28,9 @@ Reimbursements to students
 --------------------------
 
 RoboJackets will occasionally need to reimburse a student for an out-of-pocket expense or mileage in a personal vehicle.
-Students must `submit reimbursement requests in BILL Spend & Expense <https://help.bill.com/direct/s/article/5530933>`_.
+Students must `submit reimbursement requests in Ramp <https://support.ramp.com/hc/en-us/articles/4417618448403-Submitting-reimbursements>`_.
 
-.. vale Google.Acronyms = NO
-.. vale Google.Semicolons = NO
-.. vale Vale.Spelling = NO
-
-Once the request is approved by a budget owner and an administrator, BILL will withdraw the funds from Mercury.
-The withdrawal description will be :guilabel:`Divvy Reimbursem; ACH; RoboJackets Inc`.
-Foundation Group is responsible for creating expense transactions based on the reimbursement requests recorded in BILL.
-
-.. vale Vale.Spelling = YES
-
-.. seealso::
-   See the `BILL Spend & Expense documentation <https://help.bill.com/direct/s/article/6100724>`_ for more information on viewing reimbursements within BILL.
+Once the request is approved by a budget owner and an administrator, Ramp will withdraw the funds from Mercury.
 
 Square payments
 ---------------

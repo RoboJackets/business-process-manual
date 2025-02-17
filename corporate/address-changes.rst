@@ -52,11 +52,6 @@ Mercury
 
 Update the company legal address and company mailing addresses on the `Company Profile <https://app.mercury.com/settings/company-profile>`_ tab in settings.
 
-BILL Spend & Expense
---------------------
-
-Update the billing address and mailing addresses on the `Company Information <https://app.divvy.co/companies/Q29tcGFueTo0MzAzMw==/settings/company-info>`_ tab under :guilabel:`Settings`.
-
 Ramp
 ----
 

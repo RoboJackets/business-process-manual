@@ -1,7 +1,6 @@
 WHOIS
 Gandi
 Bitwarden
-BILL
 Offboarding
 forma
 period

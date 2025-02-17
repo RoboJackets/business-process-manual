@@ -86,11 +86,6 @@ Mercury
 
 Add the new treasurer as an administrator under the `Team <https://app.mercury.com/settings/team>`_ tab in settings.
 
-BILL Spend & Expense
-~~~~~~~~~~~~~~~~~~~~
-
-Add the new treasurer as an administrator under the `People <https://app.divvy.co/companies/Q29tcGFueTo0MzAzMw==/people>`_ tab.
-
 Ramp
 ~~~~
 

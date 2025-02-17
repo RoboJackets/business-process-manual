@@ -20,13 +20,12 @@ Business Process Manual
    corporate/officer-changes
 
 .. toctree::
-   :caption: BILL Spend & Expense
+   :caption: Ramp
 
-   bill-spend-expense/cardholder-audit
-   bill-spend-expense/corporate-credit-card-policy
-   bill-spend-expense/reimbursement-policy
-   bill-spend-expense/order-physical-card
-   bill-spend-expense/request-account
-   bill-spend-expense/offboarding
+   ramp/onboarding
+   ramp/expense-policy
+   ramp/physical-card
+   ramp/cardholder-audit
+   ramp/offboarding
 
 .. todolist::

@@ -23,6 +23,7 @@ Most donors should be directed to donate to Georgia Tech Foundation, Inc.
 
 Payments from Georgia Tech are generally restricted, and must be tagged with the :guilabel:`Restricted` class within QuickBooks.
 Any payments should be traceable to an expense, and the expense should also be tagged with the :guilabel:`Restricted` class within QuickBooks.
+Expenses should additionally have the :guilabel:`Customer` field set to Georgia Institute of Technology and :guilabel:`Billable` set to Yes.
 
 Reimbursements to students
 --------------------------

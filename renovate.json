@@ -1,25 +1,32 @@
 {
     "extends": [
-        "config:base"
+        "config:recommended"
     ],
     "prConcurrentLimit": 1,
     "prHourlyLimit": 0,
-    "rebaseStalePrs": true,
+    "rebaseWhen": "behind-base-branch",
     "automerge": true,
     "platformAutomerge": true,
     "lockFileMaintenance": {
         "enabled": true,
-        "schedule": ["before 4pm every weekday except before 9am every weekday"]
-    },
-    "python": {
-        "packageRules": [
-            {
-                "matchDepNames": ["python"],
-                "rangeStrategy": "replace"
-            }
+        "schedule": [
+            "before 4pm every weekday except before 9am every weekday"
         ]
     },
     "rangeStrategy": "pin",
     "timezone": "America/New_York",
-    "schedule": ["before 4pm every weekday except before 9am every weekday"]
+    "schedule": [
+        "before 4pm every weekday except before 9am every weekday"
+    ],
+    "packageRules": [
+        {
+            "matchCategories": [
+                "python"
+            ],
+            "matchDepNames": [
+                "python"
+            ],
+            "rangeStrategy": "replace"
+        }
+    ]
 }

@@ -14,6 +14,16 @@ Bookkeeping standards
 RoboJackets financial records should comply with `generally accepted accounting principles <https://asc.fasb.org>`_ and Internal Revenue Service standards by default.
 This page documents standards for specific transactions.
 
+Accounting method
+-----------------
+
+.. vale Google.We = NO
+
+RoboJackets uses cash basis accounting for simplicity.
+Most payments we send and receive are due immediately, so accrual accounting would have limited benefits.
+
+.. vale Google.We = YES
+
 Restricted funds
 ----------------
 

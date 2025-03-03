@@ -41,7 +41,7 @@ Reimbursements to students
 RoboJackets will occasionally need to reimburse a student for an out-of-pocket expense or mileage in a personal vehicle.
 Students must `submit reimbursement requests in Ramp <https://support.ramp.com/hc/en-us/articles/4417618448403-Submitting-reimbursements>`_.
 
-Once the request is approved by a budget owner and an administrator, Ramp will withdraw the funds from Mercury.
+Once the request is approved by a department owner and an administrator, :ref:`Ramp <corporate/key-vendors:Ramp>` will withdraw the funds from :ref:`Mercury <corporate/key-vendors:Mercury>`.
 
 Square payments
 ---------------
@@ -49,5 +49,5 @@ Square payments
 .. vale Google.We = NO
 
 `Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/3807-deposit-options-with-square>`_.
-Foundation Group is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.
+:ref:`Foundation Group <corporate/key-vendors:Foundation Group>` is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.
 RoboJackets is responsible for maintaining the `Square app transactions feed into QuickBooks <https://squareup.com/help/us/en/article/5180-intuit-quickbooks-and-square>`_.

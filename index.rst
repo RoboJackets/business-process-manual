@@ -22,6 +22,7 @@ Business Process Manual
 .. toctree::
    :caption: Ramp
 
+   ramp/accounting-guide
    ramp/cardholder-audit
    ramp/expense-policy
    ramp/offboarding

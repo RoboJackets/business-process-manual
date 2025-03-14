@@ -93,6 +93,7 @@ linkcheck_ignore = [
   r'https://help\.bill\.com/direct/s/article/(\d{7})',
   r'https://quickbooks\.intuit\.com',
   r'https://sos\.ga\.gov',
+  r'https://support\.mercury\.com',
   r'https://support\.ramp\.com',
   r'https://www\.adobe\.com',
   r'https://www\.dnb\.com',

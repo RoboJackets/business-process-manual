@@ -36,7 +36,7 @@ After posting, the transaction should be `recorded as a refund within QuickBooks
 
 .. vale Google.Parens = NO
 
-Excess payments from :abbr:`SGA (Student Government Association)`, custodial, or :abbr:`GTSF (Georgia Tech Student Foundation)` accounts should be returned to the `Student Organization Finance Office <https://sofo.gatech.edu>`_ for processing.
+Excess payments from :abbr:`SGA (Student Government Association)` or custodial accounts should be returned to the `Student Organization Finance Office <https://sofo.gatech.edu>`_ for processing.
 
 .. vale Google.Parens = YES
 

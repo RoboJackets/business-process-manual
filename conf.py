@@ -95,6 +95,7 @@ linkcheck_ignore = [
   r'https://sos\.ga\.gov',
   r'https://support\.mercury\.com',
   r'https://support\.ramp\.com',
+  r'https://taxdome\.com',
   r'https://www\.adobe\.com',
   r'https://www\.dnb\.com',
   r'https://www\.transunion\.com',

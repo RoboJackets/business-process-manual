@@ -56,3 +56,15 @@ Vendors may request a D-U-N-S number for business verification, or as part of a 
    Students **don't** have authorization to apply for credit on behalf of the corporation.
 
 The RoboJackets, Inc. D-U-N-S number is 08-676-4236, and the corporation is listed on the D&B Business Directory `here <https://www.dnb.com/business-directory/company-profiles.robojackets_inc.1b4ba8f8568ea2df5ccfa9011178f225.html>`_.
+
+NAICS Industry Code
+-------------------
+
+:abbr:`NAICS (North American Industry Classification System)` is a standard used to classify businesses.
+RoboJackets, Inc. uses industry code `813410 <https://www.census.gov/naics/?input=813410&year=2022&details=813410>`_, named "Civic and Social Organizations."
+
+Merchant Category Code
+----------------------
+
+:abbr:`MCCs (Merchant Category Codes)` are used by card networks, such as Visa, to classify businesses.
+RoboJackets, Inc. uses MCC 8699, named "Membership Organizations."

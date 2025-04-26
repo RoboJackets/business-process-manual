@@ -20,3 +20,6 @@ SGA
 GTSF
 designee
 undeposited
+NAICS
+American
+MCC

@@ -11,4 +11,5 @@ Finance
    cash-check-handling
    georgia-tech-payments
    monthly-reconciliation
+   receipt-standards
    sales-tax

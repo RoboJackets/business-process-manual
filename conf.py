@@ -99,6 +99,7 @@ linkcheck_ignore = [
   r'https://www\.adobe\.com',
   r'https://www\.census\.gov',
   r'https://www\.dnb\.com',
+  r'https://www\.enterprise\.com',
   r'https://www\.transunion\.com',
 ]
 

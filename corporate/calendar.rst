@@ -19,12 +19,12 @@ January
 * `File Annual Registration with the Georgia Secretary of State <https://sos.ga.gov/how-to-guide/how-file-annual-registration>`_
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 * :doc:`Reconcile 1099-K received from Square to QuickBooks records </corporate/finance/1099k>`
-* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 February
 --------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
+* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 March
 -----
@@ -41,7 +41,6 @@ April
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>`
 * :ref:`Return any excess payments from Georgia Tech <corporate/finance/georgia-tech-payments:Excess payments>`
-* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 May
 ---
@@ -63,7 +62,6 @@ July
 * :doc:`Engage Foundation Group and begin compiling documentation for Internal Revenue Service Form 990-EZ </corporate/finance/990ez>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`elect corporate directors and officers <corporate/board-meetings:Elections>`
 * :doc:`Collect annual conflict of interest statements from all directors and officers </corporate/conflict-of-interest-policy>`
-* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 August
 ------
@@ -83,7 +81,6 @@ October
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
 * :doc:`Hold quarterly board meeting </corporate/board-meetings>` and :ref:`review the budget for the year <corporate/board-meetings:Budget review>`
-* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 November
 --------

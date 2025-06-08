@@ -53,7 +53,7 @@ Ramp
 ----
 
 `Ramp <https://ramp.com>`_ is our finance platform, used for corporate cards, reimbursements, and banking.
-Cards are issued by `Sutton <https://www.suttonbank.com>`_ and `Celtic <https://www.celticbank.com>`_.
+Cards are issued by `Sutton <https://www.suttonbank.com>`_ and `Celtic <https://www.celticbank.com>`_, and bank account funds are held at `First Internet <https://www.firstib.com>`_.
 
 Corporation directors and officers **may** have bookkeeper or administrator access to Ramp, as needed.
 Students **should** have employee or bookkeeper access to Ramp, as needed.

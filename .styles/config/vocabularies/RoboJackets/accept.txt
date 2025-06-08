@@ -1,7 +1,8 @@
 WHOIS
 Gandi
 Bitwarden
-Offboarding
+(o|O)ffboarding
+offboarded
 forma
 period
 RoboJackets
@@ -25,3 +26,4 @@ American
 MCC
 Verra
 Tollpass
+KYC

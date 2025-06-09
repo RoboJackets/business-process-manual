@@ -35,7 +35,7 @@ Mercury
 -------
 
 `Mercury <https://mercury.com>`_ is a financial technology company providing a servicing experience backed by partner banks.
-RoboJackets accounts are held at `Evolve <https://www.getevolved.com>`_.
+RoboJackets accounts are held at `Column <https://column.com>`_.
 
 Corporation directors and officers **may** have access to Mercury.
 Students **may** have limited access to Mercury to review account activity and request outgoing payments.
@@ -52,8 +52,8 @@ Students generally **shouldn't** have access to Square, except as needed for :do
 Ramp
 ----
 
-`Ramp <https://ramp.com>`_ is our expense platform, used for both corporate cards and reimbursements.
-Cards are issued by `Sutton <https://www.suttonbank.com>`_.
+`Ramp <https://ramp.com>`_ is our finance platform, used for corporate cards, reimbursements, and banking.
+Cards are issued by `Sutton <https://www.suttonbank.com>`_ and `Celtic <https://www.celticbank.com>`_, and bank account funds are held at `First Internet <https://www.firstib.com>`_.
 
 Corporation directors and officers **may** have bookkeeper or administrator access to Ramp, as needed.
 Students **should** have employee or bookkeeper access to Ramp, as needed.

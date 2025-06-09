@@ -5,6 +5,7 @@ Bookkeeping standards
 
 .. vale Google.Parens = NO
 .. vale Google.Passive = NO
+.. vale Google.We = NO
 .. vale Google.Will = NO
 .. vale proselint.Typography = NO
 .. vale write-good.E-Prime = NO
@@ -17,12 +18,8 @@ This page documents standards for specific transactions.
 Accounting method
 -----------------
 
-.. vale Google.We = NO
-
 RoboJackets uses cash basis accounting for simplicity.
 Most payments we send and receive are due immediately, so accrual accounting would have limited benefits.
-
-.. vale Google.We = YES
 
 Restricted funds
 ----------------
@@ -41,12 +38,10 @@ Reimbursements to students
 RoboJackets will occasionally need to reimburse a student for an out-of-pocket expense or mileage in a personal vehicle.
 Students must `submit reimbursement requests in Ramp <https://support.ramp.com/hc/en-us/articles/4417618448403-Submitting-reimbursements>`_.
 
-Once the request is approved by a department owner and an administrator, :ref:`Ramp <corporate/key-vendors:Ramp>` will withdraw the funds from :ref:`Mercury <corporate/key-vendors:Mercury>`.
+Once the request is approved by a department owner and an administrator, :ref:`Ramp <corporate/key-vendors:Ramp>` will withdraw the funds from our `Ramp Business Account <https://support.ramp.com/hc/en-us/articles/35043351807507-Ramp-Business-Account-Overview>`_.
 
 Square payments
 ---------------
-
-.. vale Google.We = NO
 
 `Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/3807-deposit-options-with-square>`_.
 :ref:`Foundation Group <corporate/key-vendors:Foundation Group>` is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.

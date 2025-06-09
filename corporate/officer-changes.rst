@@ -73,6 +73,11 @@ See contact change procedures on the `Procedures <https://www.gt/sitio/procedure
 
 .. vale Google.WordList = YES
 
+Mercury
+~~~~~~~
+
+`Notify Mercury <https://support.mercury.com/hc/en-us/articles/28772200023188-Adding-or-removing-owners>`_ to update the principal officer.
+
 Treasurer
 ---------
 
@@ -84,12 +89,16 @@ Update the responsible party for the sales and use tax account under :menuselect
 Mercury
 ~~~~~~~
 
+.. vale Google.Parens = NO
+
 Add the new treasurer as an administrator under the `Team <https://app.mercury.com/settings/team>`_ tab in settings.
+`Notify Mercury <https://support.mercury.com/hc/en-us/articles/28772200023188-Adding-or-removing-owners>`_ to update the officer's :abbr:`KYC (Know Your Customer)` information.
 
 Ramp
 ~~~~
 
-Add the new treasurer as an administrator under the `People <https://app.ramp.com/people/all>`_ tab.
+Transfer the business under `Company profile <https://app.ramp.com/settings/company-settings/profile/edit>`_.
+Review the transfer documentation in the `Ramp help center <https://support.ramp.com/hc/en-us/articles/39367962117651-Transfer-business-ownership>`_ if needed.
 
 Square
 ~~~~~~
@@ -97,6 +106,7 @@ Square
 .. vale Google.FirstPerson = NO
 
 Transfer the business under `About my business <https://app.squareup.com/dashboard/business/about-my-business>`_.
+Review the transfer documentation in the `Square support center <https://squareup.com/help/us/en/article/7675-transfer-ownership-of-your-square-account>`_ if needed.
 
 Google Voice
 ~~~~~~~~~~~~

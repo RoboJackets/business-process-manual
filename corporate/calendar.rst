@@ -24,6 +24,7 @@ February
 --------
 
 * :doc:`Complete monthly financial reconciliation and reporting </corporate/finance/monthly-reconciliation>`
+* :doc:`Audit Ramp cardholders </ramp/cardholder-audit>`
 
 March
 -----

@@ -265,7 +265,7 @@ sphinx-basic-ng = ">=1.0.0.beta2"
 type = "git"
 url = "https://github.com/pradyunsg/furo"
 reference = "HEAD"
-resolved_reference = "e66305816f18494dd1611d938b103d223eea3215"
+resolved_reference = "4139371f7c1aa5f3434f2ab664382b710bc149f5"
 
 [[package]]
 name = "h11"
@@ -724,14 +724,14 @@ files = [
 
 [[package]]
 name = "urllib3"
-version = "2.4.0"
+version = "2.5.0"
 description = "HTTP library with thread-safe connection pooling, file post, and more."
 optional = false
 python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "urllib3-2.4.0-py3-none-any.whl", hash = "sha256:4e16665048960a0900c702d4a66415956a584919c03361cac9f1df5c5dd7e813"},
-    {file = "urllib3-2.4.0.tar.gz", hash = "sha256:414bc6535b787febd7567804cc015fee39daab8ad86268f1310a9250697de466"},
+    {file = "urllib3-2.5.0-py3-none-any.whl", hash = "sha256:e6b01673c0fa6a13e374b50871808eb3bf7046c4b125b216f6bf1cc604cff0dc"},
+    {file = "urllib3-2.5.0.tar.gz", hash = "sha256:3fc47733c7e419d4bc3f6b3dc2b4f890bb743906a30d56ba4a5bfa4bbff92760"},
 ]
 
 [package.extras]

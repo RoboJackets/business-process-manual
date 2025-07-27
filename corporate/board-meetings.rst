@@ -40,6 +40,11 @@ Elections must be held during the July board meeting to fill the positions.
 
 Neither director nor officer positions are term limited.
 
+.. vale Google.Parens = NO
+.. vale write-good.TooWordy = NO
+
+Per `Georgia Code § 14-3-840 (e) <https://law.justia.com/codes/georgia/title-14/chapter-3/article-8/part-4/section-14-3-840/>`_, "the offices of chief executive officer and secretary shall not be held by the same individual."
+
 .. seealso::
    Elections are discussed in the `bylaws <https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view>`_ in Article IV § 2 and Article V § 2.
    Director terms were adjusted during the `July 5th, 2020 board meeting <https://drive.google.com/file/d/1as_HCv6Hp9G7JpeVYFavYOJyuyq5FDk3/view>`_.

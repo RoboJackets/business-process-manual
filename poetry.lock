@@ -231,7 +231,7 @@ files = [
 
 [[package]]
 name = "furo"
-version = "2025.7.19.dev1"
+version = "2025.9.25.dev1"
 description = "A clean customisable Sphinx documentation theme."
 optional = false
 python-versions = ">=3.8"
@@ -250,7 +250,7 @@ sphinx-basic-ng = ">=1.0.0.beta2"
 type = "git"
 url = "https://github.com/pradyunsg/furo"
 reference = "HEAD"
-resolved_reference = "d92b62fee4cedd5b2ac1d267353d96541c9e0fb0"
+resolved_reference = "12f288eb8c8c57dc751e208545b07f1584bb29a7"
 
 [[package]]
 name = "h11"

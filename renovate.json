@@ -23,7 +23,8 @@
             "matchDepNames": [
                 "python"
             ],
-            "rangeStrategy": "replace"
+            "rangeStrategy": "replace",
+            "allowedVersions": "^3.15"
         }
     ]
 }

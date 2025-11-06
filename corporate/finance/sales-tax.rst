@@ -23,7 +23,7 @@ Reviewing collected sales tax
 
 Square calculated sales tax amounts are available in the dashboard, under :menuselection:`Reporting --> Reports --> Taxes`.
 This report should match the 21400 Sales Tax Payable account within QuickBooks.
-Collected sales tax is not counted as corporate income. For transaction which are subject to sales tax, the Net Sales column should be used when reconciling Square transactions.
+Collected sales tax is not counted as corporate income. For transactions which are subject to sales tax, the Net Sales column should be used when reconciling with Square.
 
 .. vale Google.Headings = NO
 

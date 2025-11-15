@@ -6,6 +6,13 @@ on:
     types:
       - closed
 
+  workflow_dispatch:
+    inputs:
+      pull_request_number:
+        description: The pull request that should be destroyed
+        required: true
+        type: number
+
 jobs:
   terraform-destroy:
     name: Destroy CloudFront Environment
@@ -16,7 +23,7 @@ jobs:
       contents: read
 
     concurrency:
-      group: terraform-apply-refs/pull/${{ github.event.number }}/merge
+      group: terraform-apply-refs/pull/${{ github.event.number || inputs.pull_request_number }}/merge
       cancel-in-progress: false
 
     steps:
@@ -37,7 +44,7 @@ jobs:
         role-duration-seconds: 900
 
     - name: Initialize Terraform
-      run: terraform init -backend-config="key=refs/pull/${{ github.event.number }}/merge.tfstate"
+      run: terraform init -backend-config="key=refs/pull/${{ github.event.number || inputs.pull_request_number }}/merge.tfstate"
 
     - name: Terraform Destroy
-      run: terraform destroy -var=ref=refs/pull/${{ github.event.number }}/merge -auto-approve
+      run: terraform destroy -var=ref=refs/pull/${{ github.event.number || inputs.pull_request_number }}/merge -auto-approve

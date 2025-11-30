@@ -40,6 +40,11 @@ Students must `submit reimbursement requests in Ramp <https://support.ramp.com/h
 
 Once the request is approved by a department owner and an administrator, :ref:`Ramp <corporate/key-vendors:Ramp>` will withdraw the funds from our `Ramp Business Account <https://support.ramp.com/hc/en-us/articles/35043351807507-Ramp-Business-Account-Overview>`_.
 
+Accidental transactions
+-----------------------
+In the event a ramp card is used for a personal transaction, the transaction must be repayed by the card holder: `Accidental or personal charges <https://support.ramp.com/hc/en-us/articles/1500008385922-Accidental-or-personal-charges-on-Ramp>`_.
+When synchronizing an accidental transaction to QuickBooks, categorize it under 99999 - Accidental and Mischarges.
+
 Square payments
 ---------------
 

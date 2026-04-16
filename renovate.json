@@ -25,6 +25,12 @@
             ],
             "rangeStrategy": "replace",
             "allowedVersions": "^3.15"
+        },
+        {
+            "matchManagers": [
+                "github-actions"
+            ],
+            "rangeStrategy": "replace"
         }
     ]
 }

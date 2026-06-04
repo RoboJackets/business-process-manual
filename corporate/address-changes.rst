@@ -42,7 +42,7 @@ Update the mailing address on the `RoboJackets, Inc. profile <https://www.guides
 Dun & Bradstreet
 ----------------
 
-Update the business address under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://duns-update.dnb.com>`_.
+Update the business address under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://www.dnb.com/duns-number/view-update-company-credit-file.html>`_.
 
 .. note::
    Some vendors listed below use the Dun & Bradstreet record to verify address changes. Update the address with D&B before any vendors.

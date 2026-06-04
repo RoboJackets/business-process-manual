@@ -43,7 +43,7 @@ Internal Revenue Service
 Dun & Bradstreet
 ~~~~~~~~~~~~~~~~
 
-Update the principal officer under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://duns-update.dnb.com>`_.
+Update the principal officer under the :guilabel:`Company Profile` tab in `D-U-N-S Manager <https://www.dnb.com/duns-number/view-update-company-credit-file.html>`_.
 
 .. note::
    Some vendors use the Dun & Bradstreet record to verify officer changes. Update officers with D&B before any vendors.

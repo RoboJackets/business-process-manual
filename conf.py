@@ -86,6 +86,7 @@ html_theme_options = {
 }
 
 linkcheck_ignore = [
+  'https://procurement.gatech.edu/payables/taxinfo#taxexempt',
   r'https://app\.divvy\.co',
   r'https://app\.squareup\.com/dashboard/',
   r'https://asc\.fasb\.org',

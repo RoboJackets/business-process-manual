@@ -1,7 +1,7 @@
 :og:description: Georgia law generally requires sellers of tangible goods to collect and remit sales tax to the state. RoboJackets calculates and collects sales tax for per se sales of branded merchandise within Square.
 
-Remitting sales tax
-===================
+Collecting sales tax
+====================
 
 .. vale Google.Passive = NO
 .. vale Vale.Spelling = NO

@@ -38,7 +38,7 @@ This processing fee must be added to the sale price of the item to avoid a net l
 Sales tax
 ~~~~~~~~~
 
-RoboJackets must also collect and remit :doc:`sales tax </corporate/finance/sales-tax>` for sales of tangible goods.
+RoboJackets must also collect and remit :doc:`sales tax </corporate/finance/collecting-sales-tax>` for sales of tangible goods.
 Determine if sales tax will be included within the list price, or added on separately, and set the list price accordingly.
 
 .. vale write-good.TooWordy = NO

@@ -26,6 +26,6 @@ Cash deposits
 -------------
 
 All cash must be `deposited to our custodial account <https://sofo.gatech.edu/procedures/depositing-funds>`_ by a student officer.
-`Mercury/Ramp doesn't accept cash deposits <https://support.mercury.com/hc/en-us/articles/28778896984596-Using-your-Mercury-debit-card-at-ATMs>`_.
+Neither Mercury nor Ramp support cash deposits.
 
 Because cash isn't deposited to a corporate account, we don't track it on corporate books.

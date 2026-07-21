@@ -20,12 +20,12 @@ Check deposits
 
 Checks payable to **Georgia Tech** must be `deposited to our custodial account <https://sofo.gatech.edu/procedures/depositing-funds>`_ by a student officer.
 
-Checks payable to **RoboJackets** must be `deposited to Mercury <https://support.mercury.com/hc/en-us/articles/28768119163156-Depositing-checks>`_ by a corporation or student officer with access to Mercury.
+Checks payable to **RoboJackets** must be `deposited to Ramp <https://support.ramp.com/depositing-checks-into-ramp-checking-account>`_ by a corporation officer.
 
 Cash deposits
 -------------
 
 All cash must be `deposited to our custodial account <https://sofo.gatech.edu/procedures/depositing-funds>`_ by a student officer.
-`Mercury doesn't accept cash deposits <https://support.mercury.com/hc/en-us/articles/28778896984596-Using-your-Mercury-debit-card-at-ATMs>`_.
+Neither Mercury nor Ramp support cash deposits.
 
 Because cash isn't deposited to a corporate account, we don't track it on corporate books.

@@ -13,6 +13,8 @@ While we prefer electronic payments, RoboJackets occasionally receives cash or p
 Dues and trip fee payments must be `recorded in Apiary <https://my.robojackets.org/docs/officers/payments/accept/#recording-an-offline-payment>`_ at the time the payment is accepted from the student.
 Apiary will send an email receipt to the student and Payment Operations.
 
+.. vale Google.Timeless = NO
+
 Cash and checks should be kept in the safe when not in transit, and should be deposited as soon as practical.
 
 Check deposits

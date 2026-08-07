@@ -23,6 +23,8 @@ Other business may be discussed as needed.
 Minutes
 -------
 
+.. vale Google.Timeless = NO
+
 Minutes must be signed by the secretary, retained within Google Workspace, and published to the corporation website as soon as practical after the meeting concludes.
 
 The secretary can use `DocHub <https://dochub.com>`_, `Adobe Fill & Sign <https://www.adobe.com/acrobat/online/sign-pdf.html>`_, or another method to sign minutes.

@@ -32,7 +32,7 @@ Most payment types should be sent out from `Mercury <https://mercury.com>`_.
 After posting, the transaction should be `recorded as a refund within QuickBooks Online <https://quickbooks.intuit.com/learn-support/en-us/help-article/customer-refunds-credits/record-customer-refund-quickbooks-online/L5PbCkJk8_US_en_US>`_.
 
 .. note::
-   Loop currently doesn't store account-level charges for `expense reports <https://loop.robojackets.org/docs/workday/expense-reports/>`_, so a Georgia Tech employee must provide that level of detail for any expense reports that should be refunded.
+   Loop doesn't store account-level charges for `expense reports <https://loop.robojackets.org/docs/workday/expense-reports/>`_, so a Georgia Tech employee must provide that level of detail for any expense reports that should be refunded.
 
 .. vale Google.Parens = NO
 

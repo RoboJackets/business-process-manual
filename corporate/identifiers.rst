@@ -29,7 +29,7 @@ Employer Identification Number
 The :abbr:`EIN (Employer Identification Number)` is assigned by the `Internal Revenue Service <https://www.irs.gov>`_ and identifies this organization to the IRS.
 Read more about EINs on the `IRS website <https://www.irs.gov/charities-non-profits/employer-identification-number>`_.
 
-.. vale Google.WordList = NO
+.. vale Google.WordListCase = NO
 
 Vendors may request an EIN to import a product into the United States, as part of a credit application, or as part of an `ATA Carnet <https://www.trade.gov/ata-carnet>`_ application.
 
@@ -59,6 +59,8 @@ The RoboJackets, Inc. D-U-N-S number is **08-676-4236**, and the corporation is 
 
 NAICS Industry Code
 -------------------
+
+.. vale Google.OxfordComma = NO
 
 :abbr:`NAICS (North American Industry Classification System)` is a standard used to classify businesses.
 RoboJackets, Inc. uses industry code **813410**, named `Civic and Social Organizations <https://www.census.gov/naics/?input=813410&year=2022&details=813410>`_.

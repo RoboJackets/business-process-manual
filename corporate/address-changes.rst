@@ -67,6 +67,8 @@ Bottomline Paymode
 
 Update the company information in `Paymode <https://secure.paymode.com/px/admin/membership/info>`_.
 
+.. vale Google.Timeless = NO
+
 .. note::
    This account is currently unused.
    It was originally established for the :ref:`Georgia Tech vendor registration <corporate/address-changes:Georgia Tech vendor registration>`, which is also currently unused.

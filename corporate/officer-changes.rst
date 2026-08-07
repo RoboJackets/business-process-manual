@@ -3,10 +3,11 @@
 Officer changes
 ===============
 
-.. vale Google.Passive = NO
-.. vale write-good.Passive = NO
-.. vale write-good.E-Prime = NO
 .. vale Google.Headings = NO
+.. vale Google.Passive = NO
+.. vale Google.Timeless = NO
+.. vale write-good.E-Prime = NO
+.. vale write-good.Passive = NO
 
 When the board elects new officers, the following organizations need to be notified as soon as practical.
 

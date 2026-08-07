@@ -93,6 +93,7 @@ linkcheck_ignore = [
   r'https://dash\.cloudflare\.com',
   r'https://help\.bill\.com/direct/s/article/(\d{7})',
   r'https://law\.justia\.com',
+  r'https://mercury\.com',
   r'https://quickbooks\.intuit\.com',
   r'https://ramp\.com',
   r'https://sos\.ga\.gov',

@@ -15,6 +15,8 @@ RoboJackets uses several vendors to support operations. Those listed on this pag
 Northwest Registered Agent
 --------------------------
 
+.. vale Google.OxfordComma = NO
+
 RoboJackets uses `Northwest Registered Agent <https://www.northwestregisteredagent.com/registered-agent/georgia>`_ as our registered agent with the Secretary of State.
 As our registered agent, they're our designee to receive service of process.
 They also receive some mail on our behalf, including IRS notices and checks from Georgia Tech.

@@ -37,7 +37,7 @@ jobs:
       uses: hashicorp/setup-terraform@v4
       with:
         terraform_wrapper: false
-        terraform_version: 1.14.9
+        terraform_version: v1.16.5
 
     - name: Get AWS credentials
       uses: aws-actions/configure-aws-credentials@v6

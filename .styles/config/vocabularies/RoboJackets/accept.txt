@@ -18,10 +18,11 @@ Gandi
 GTSF
 IRS
 KYC
-MCC
+MCCs?
 Mischarge
 NAICS
 offboarded
+onboarding
 Paymode
 period
 RoboJackets

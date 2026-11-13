@@ -14,6 +14,8 @@ This page documents standards for specific vendors.
 Tolls
 -----
 
+.. vale ai-tells.VerbTricolon = NO
+
 `Enterprise <https://www.enterprise.com>`_ bills tolls via a third-party company, `Verra Mobility <https://www.verramobility.com/>`_.
 Receipts can be downloaded from `Tollpass <https://www.tollpassgo.com/>`_ using the cardholder name, card number, or rental agreement number.
 

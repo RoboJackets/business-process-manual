@@ -5,6 +5,7 @@
 Identifiers
 ===========
 
+.. vale ai-tells.DefensiveHedges = NO
 .. vale Google.Passive = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
@@ -30,6 +31,7 @@ The :abbr:`EIN (Employer Identification Number)` is assigned by the `Internal Re
 Read more about EINs on the `IRS website <https://www.irs.gov/charities-non-profits/employer-identification-number>`_.
 
 .. vale Google.WordListCase = NO
+.. vale ai-tells.VerbTricolon = NO
 
 Vendors may request an EIN to import a product into the United States, as part of a credit application, or as part of an `ATA Carnet <https://www.trade.gov/ata-carnet>`_ application.
 
@@ -44,7 +46,7 @@ D-U-N-S Number
 
 .. vale write-good.TooWordy = NO
 
-The :abbr:`D-U-N-S (Data Universal Numbering System)` number is assigned by `Dun & Bradstreet <https://www.dnb.com/>`_ and serves as a general-purpose business identifier.
+The :abbr:`D-U-N-S (Data Universal Numbering System)` number is a general-purpose business identifier assigned by `Dun & Bradstreet <https://www.dnb.com/>`_.
 Read more about D-U-N-S numbers on the `D&B website <https://www.dnb.com/duns.html>`_.
 
 Dun & Bradstreet is a credit reporting agency for businesses, similar to `Experian <https://www.experian.com>`_, `Equifax <https://www.equifax.com>`_, and `TransUnion <https://www.transunion.com>`_ for consumers.

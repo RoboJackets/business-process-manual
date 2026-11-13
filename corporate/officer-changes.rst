@@ -3,6 +3,7 @@
 Officer changes
 ===============
 
+.. vale ai-tells.DoubleHyphen = NO
 .. vale Google.Headings = NO
 .. vale Google.Passive = NO
 .. vale Google.Timeless = NO

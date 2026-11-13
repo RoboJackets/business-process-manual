@@ -13,6 +13,8 @@ Purchasing merchandise
 
 Before placing an order with a vendor, consider pre-selling the merchandise to reduce the amount of stock RoboJackets stores on site.
 
+.. vale ai-tells.NounString = NO
+.. vale ai-tells.VerbTricolon = NO
 .. vale Google.Passive = NO
 .. vale Google.Will = NO
 .. vale Vale.Spelling = NO
@@ -38,6 +40,8 @@ This processing fee must be added to the sale price of the item to avoid a net l
 Sales tax
 ~~~~~~~~~
 
+.. vale ai-tells.FormalTransitions = NO
+
 RoboJackets must also collect and remit :doc:`sales tax </corporate/finance/collecting-sales-tax>` for sales of tangible goods.
 Determine if sales tax will be included within the list price, or added on separately, and set the list price accordingly.
 
@@ -47,6 +51,7 @@ Test the checkout flow within Square before publicizing a link to purchase, to e
 **Sales tax reporting depends on accurate accounting within Square.**
 
 .. vale write-good.TooWordy = YES
+.. vale ai-tells.ShipOveruse = NO
 
 Shipping
 ~~~~~~~~

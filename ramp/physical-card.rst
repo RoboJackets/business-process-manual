@@ -3,6 +3,8 @@
 Order a physical card
 =====================
 
+.. vale ai-tells.VerbTricolon = NO
+
 If you need to make purchases in person, or while traveling, please order a physical card within Ramp.
 You can order a card during :doc:`onboarding </ramp/onboarding>` or `within Ramp <https://support.ramp.com/hc/en-us/articles/360055739074-Ordering-physical-and-virtual-cards-on-Ramp#h_01HJ2H5NS2PK6N349R77HCB6TN>`_.
 

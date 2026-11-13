@@ -16,7 +16,7 @@ Most program expenses should be charged directly to Georgia Tech.
 However, some expense categories, `particularly lodging <https://policylibrary.gatech.edu/business-finance/lodging>`_, must be reimbursed per Georgia Tech policy, or business requirements may dictate purchasing materials on a RoboJackets corporate card for expediency.
 
 At the discretion of the student officer team, if funds are available from a Georgia Tech account, a reimbursement request should be submitted to Georgia Tech.
-All reimbursement payments are disbursed as paper checks mailed to the `external committee member <https://loop.robojackets.org/docs/workday/external-committee-members/>`_ address.
+Reimbursement payments are disbursed as paper checks mailed to the `external committee member <https://loop.robojackets.org/docs/workday/external-committee-members/>`_ address.
 
 Both reimbursement requests and payments are tracked and reconciled within `Loop <https://loop.robojackets.org>`_.
 Review the `Loop documentation <https://loop.robojackets.org/docs/>`_ for specific procedures.

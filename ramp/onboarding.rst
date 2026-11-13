@@ -5,6 +5,7 @@
 .. vale Vale.Terms = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
+.. vale Google.Headings = NO
 
 Onboarding
 ==========

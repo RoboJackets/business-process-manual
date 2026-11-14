@@ -11,6 +11,7 @@ Collecting sales tax
 Georgia law generally requires sellers of tangible goods to collect and remit sales tax to the state.
 RoboJackets calculates and collects sales tax for :doc:`per se sales of branded merchandise </corporate/merchandise-sales>` within :ref:`Square <corporate/key-vendors:Square>`.
 
+.. vale ai-tells.ShipOveruse = NO
 .. vale Vale.Spelling = YES
 
 Square can automatically calculate sales tax for any pickup or shipped orders.
@@ -20,6 +21,8 @@ View current sales tax rates on the `Department of Revenue website <https://dor.
 
 Reviewing collected sales tax
 -----------------------------
+
+.. vale ai-tells.DoubleHyphen = NO
 
 Square calculated sales tax amounts are available in the dashboard, under :menuselection:`Reporting --> Reports --> Taxes`.
 This report should match the 21400 Sales Tax Payable account within QuickBooks.
@@ -42,6 +45,8 @@ A return must be filed even if no sales tax was collected in that period.
 #. Follow the instructions on screen to file the return.
 
 Once the return is filed, if a payment is due, click :guilabel:`Make a Payment`, and follow the instructions on screen.
+
+.. vale ai-tells.Metacommentary = NO
 
 .. note::
    Georgia provides 3% vendor compensation, also known as vendor discount, for sales tax returns that are filed electronically and on time.

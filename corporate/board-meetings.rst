@@ -23,6 +23,7 @@ Other business may be discussed as needed.
 Minutes
 -------
 
+.. vale ai-tells.VerbTricolon = NO
 .. vale Google.Timeless = NO
 
 Minutes must be signed by the secretary, retained within Google Workspace, and published to the corporation website as soon as practical after the meeting concludes.
@@ -39,6 +40,8 @@ Elections
 
 Either one or two director terms and all three officer terms expire each year in July.
 Elections must be held during the July board meeting to fill the positions.
+
+.. vale ai-tells.NegatedPair = NO
 
 Neither director nor officer positions are term limited.
 

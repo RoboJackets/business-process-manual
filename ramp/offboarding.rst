@@ -17,4 +17,6 @@ Members can also be `manually deactivated by an administrator <https://support.r
   Deactivating a user is sufficient to prevent spending, and allows for re-activating their existing account in the future if necessary.
   `Review the Ramp help center documentation for more information about user states <https://support.ramp.com/hc/en-us/articles/39946511767443-Understanding-user-states-in-Ramp>`_.
 
+.. vale ai-tells.DoubleHyphen = NO
+
 Members **aren't** automatically re-activated -- an administrator must manually re-activate their account within Ramp once they pay dues.

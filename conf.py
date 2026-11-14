@@ -106,6 +106,7 @@ linkcheck_ignore = [
   r'https://www\.enterprise\.com',
   r'https://www\.gt',
   r'https://www\.northwestregisteredagent\.com',
+  r'https://www\.tollpassgo\.com',
   r'https://www\.transunion\.com',
 ]
 

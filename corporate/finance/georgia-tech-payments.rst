@@ -6,10 +6,10 @@ Georgia Tech payments
 =====================
 
 .. vale Google.Headings = YES
-
 .. vale Google.Passive = NO
-.. vale write-good.Passive = NO
+.. vale write-good.Adverbs = NO
 .. vale write-good.E-Prime = NO
+.. vale write-good.Passive = NO
 .. vale write-good.TooWordy = NO
 
 Most program expenses should be charged directly to Georgia Tech.

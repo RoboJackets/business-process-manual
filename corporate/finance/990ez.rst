@@ -3,11 +3,13 @@
 Form 990
 --------
 
+.. vale alex.ProfanityUnlikely = NO
 .. vale Google.LyHyphens = NO
 .. vale Google.Ordinal = NO
 .. vale Google.Passive = NO
 .. vale Google.Units = NO
 .. vale Google.We = NO
+.. vale proselint.PhrasalAdjectivesLy = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
 

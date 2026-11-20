@@ -3,9 +3,11 @@
 Cash and check handling
 =======================
 
+.. vale alex.ProfanityUnlikely = NO
 .. vale Google.Passive = NO
 .. vale Google.We = NO
 .. vale Google.Will = NO
+.. vale write-good.Adverbs = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
 

@@ -3,6 +3,7 @@
 Collecting sales tax
 ====================
 
+.. vale alex.ProfanityUnlikely = NO
 .. vale Google.Passive = NO
 .. vale Vale.Spelling = NO
 .. vale write-good.E-Prime = NO

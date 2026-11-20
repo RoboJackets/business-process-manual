@@ -18,11 +18,15 @@ This page documents standards for specific transactions.
 Accounting method
 -----------------
 
+.. vale write-good.Adverbs = NO
+
 RoboJackets uses cash basis accounting for simplicity.
 Most payments we send and receive are due immediately, so accrual accounting would have limited benefits.
 
 Restricted funds
 ----------------
+
+.. vale proselint.Copyright = NO
 
 RoboJackets, Inc. generally doesn't accept donations.
 As a 501(c)(7) exempt organization, donations aren't tax-deductible for donors.
@@ -47,6 +51,8 @@ When synchronizing an accidental transaction to QuickBooks, categorize it under 
 
 Square payments
 ---------------
+
+.. vale alex.ProfanityUnlikely = NO
 
 `Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/3807-deposit-options-with-square>`_.
 :ref:`Foundation Group <corporate/key-vendors:Foundation Group>` is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.

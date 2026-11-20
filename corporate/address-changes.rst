@@ -69,6 +69,7 @@ Bottomline Paymode
 Update the company information in `Paymode <https://secure.paymode.com/px/admin/membership/info>`_.
 
 .. vale Google.Timeless = NO
+.. vale write-good.Adverbs = NO
 
 .. note::
    This account is currently unused.

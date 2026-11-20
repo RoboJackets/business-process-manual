@@ -5,6 +5,8 @@
 Merchandise sales
 =================
 
+.. vale write-good.Adverbs = NO
+
 RoboJackets occasionally sells branded merchandise to members.
 This page documents considerations for purchasing and pricing merchandise.
 

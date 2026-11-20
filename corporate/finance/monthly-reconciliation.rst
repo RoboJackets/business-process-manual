@@ -6,6 +6,7 @@ Monthly reconciliation
 
 The corporation should perform monthly reconciliation and reporting of all financial transactions to ensure the board of directors has visibility into the financial health of the organization.
 
+.. vale alex.ProfanityUnlikely = NO
 .. vale Google.Passive = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO

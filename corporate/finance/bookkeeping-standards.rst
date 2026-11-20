@@ -55,5 +55,12 @@ Square payments
 .. vale alex.ProfanityUnlikely = NO
 
 `Square deposits payments the following business day after a payment is received <https://squareup.com/help/us/en/article/3807-deposit-options-with-square>`_.
-:ref:`Foundation Group <corporate/key-vendors:Foundation Group>` is responsible for splitting processing fees from the deposit as an expense entry, and recording the remaining revenue in the appropriate revenue accounts.
-RoboJackets is responsible for maintaining the `Square app transactions feed into QuickBooks <https://squareup.com/help/us/en/article/5180-intuit-quickbooks-and-square>`_.
+`An automation <https://github.com/RoboJackets/square-qbo-sales-receipts>`_ records each deposit in QuickBooks as a sales receipt, dated when the deposit is due to arrive in our bank account.
+Each payment in the deposit is recorded as a line for the item sold and a negative line for the processing fee.
+The sales receipt total should match the amount deposited.
+Sales tax collected on :doc:`merchandise sales </corporate/merchandise-sales>` is recorded as sales tax, not revenue.
+
+The automation matches each payment to a QuickBooks product or service based on the item name in Square, and must be updated before an item is added or renamed in Square.
+If a deposit includes an unrecognized item, an order with more than one line item, or a refund, the automation doesn't create a sales receipt for that deposit.
+
+RoboJackets is responsible for maintaining the automation.

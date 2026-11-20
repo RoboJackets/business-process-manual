@@ -27,7 +27,7 @@
       "owner": "vale",
       "pattern": [
         {
-          "regexp": "^([a-zA-Z-\\.\/]+):(\\d+):(\\d+):([a-zA-Z.-]+):(.+)$",
+          "regexp": "^([a-zA-Z-\\.\/]+):(\\d+):(\\d+):([a-zA-Z0-9.-]+):(.+)$",
           "file": 1,
           "line": 2,
           "column": 3,

@@ -6,7 +6,6 @@ Monthly reconciliation
 
 The corporation should perform monthly reconciliation and reporting of all financial transactions to ensure the board of directors has visibility into the financial health of the organization.
 
-.. vale alex.ProfanityUnlikely = NO
 .. vale Google.Passive = NO
 .. vale write-good.E-Prime = NO
 .. vale write-good.Passive = NO
@@ -25,7 +24,6 @@ Once Foundation Group provides reports, review the reports within two business d
 Foundation Group responsibilities
 ---------------------------------
 
-* Split processing fees deducted from Square deposits
 * Create expense entries for any Mercury credit card or bank account transactions
 * Reconcile Ramp and Mercury account statements with QuickBooks
 * Produce reports describing activity for each month as well as the financial position at the end of each month

@@ -1,4 +1,4 @@
-:og:description: RoboJackets occasionally sells branded merchandise to members. This page documents considerations for purchasing and pricing merchandise.
+:og:description: RoboJackets occasionally sells branded merchandise to members. This page documents considerations for purchasing, pricing, and selling merchandise.
 .. meta::
    :keywords: swag
 
@@ -8,7 +8,7 @@ Merchandise sales
 .. vale write-good.Adverbs = NO
 
 RoboJackets occasionally sells branded merchandise to members.
-This page documents considerations for purchasing and pricing merchandise.
+This page documents considerations for purchasing, pricing, and selling merchandise.
 
 Purchasing merchandise
 ----------------------
@@ -59,3 +59,9 @@ Shipping
 ~~~~~~~~
 
 If you want to offer shipping for customers beyond Atlanta, consider whether you want to offer a flat rate or Square-calculated shipping rate.
+
+Selling merchandise
+-------------------
+
+Square payments are :ref:`recorded in QuickBooks automatically <corporate/finance/bookkeeping-standards:Square payments>`, based on the item name in Square.
+The automation must be updated before an item is added or renamed.
